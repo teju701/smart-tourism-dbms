@@ -61,26 +61,26 @@ This project follows a **Thick Database / Thin Application** architecture:
 
 ## 🏗️ System Architecture
 
-The backend serves as a lightweight orchestration layer, while the database acts as the primary decision-maker.
+The backend acts as a lightweight orchestration layer, while PostgreSQL serves as the core intelligence layer responsible for enforcing business rules and data integrity.
 
 ```mermaid
 graph TD
     User((User))
-    UI[React Frontend \n (Vite + Tailwind)]
-    API[Node.js + Express Backend]
+    UI[React Frontend]
+    API[Node Express Backend]
     DB[(PostgreSQL Database)]
 
-    subgraph "Database Intelligence Layer"
-        Func[SQL Functions \n (Recommendations & Queries)]
-        Proc[PL/pgSQL Procedures \n (Bookings & Reviews)]
-        Lock[Advisory Locks \n (Concurrency Control)]
-        Constraint[CHECK Constraints \n (Data Integrity)]
-        Audit[Audit Tables \n (Change Tracking)]
+    subgraph Database_Intelligence_Layer
+        Func[SQL Functions]
+        Proc[PLpgSQL Procedures]
+        Lock[Advisory Locks]
+        Constraint[Check Constraints]
+        Audit[Audit Tables]
     end
 
     User --> UI
-    UI -->|HTTP / JSON| API
-    API -->|Procedure Calls| DB
+    UI --> API
+    API --> DB
 
     DB --> Func
     DB --> Proc
@@ -88,5 +88,7 @@ graph TD
     Proc --> Constraint
     Proc --> Audit
 
-    DB -->|Results| API
+    DB --> API
     API --> UI
+```
+
