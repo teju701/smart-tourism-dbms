@@ -1,0 +1,2241 @@
+transport_id,city_id,type,provider,cost
+1,1,Bus,CityLink6,469.97
+2,1,Train,RailConnect2,450.69
+3,1,Flight,SkyJet Airways4,171.22
+4,1,Cab,QuickRide2,222.39
+5,2,Bus,CityLink4,317.13
+6,2,Train,RailConnect2,377.23
+7,2,Flight,SkyJet Airways3,287.63
+8,2,Cab,QuickRide9,106.97
+9,3,Bus,CityLink4,316.34
+10,3,Train,RailConnect0,337.41
+11,3,Flight,SkyJet Airways4,398.08
+12,3,Cab,QuickRide11,330.05
+13,4,Bus,CityLink4,280.66
+14,4,Train,RailConnect2,448.31
+15,4,Flight,SkyJet Airways2,288.31
+16,4,Cab,QuickRide14,435.25
+17,5,Bus,CityLink0,359.73
+18,5,Train,RailConnect1,420.05
+19,5,Flight,SkyJet Airways3,438.10
+20,5,Cab,QuickRide3,408.95
+21,6,Bus,CityLink6,322.14
+22,6,Train,RailConnect3,278.60
+23,6,Flight,SkyJet Airways3,302.63
+24,6,Cab,QuickRide9,194.87
+25,7,Bus,CityLink0,366.09
+26,7,Train,RailConnect4,224.31
+27,7,Flight,SkyJet Airways1,175.25
+28,7,Cab,QuickRide15,452.17
+29,8,Bus,CityLink2,152.74
+30,8,Train,RailConnect4,193.48
+31,8,Flight,SkyJet Airways4,119.39
+32,8,Cab,QuickRide15,164.29
+33,9,Bus,CityLink0,391.28
+34,9,Train,RailConnect4,260.99
+35,9,Flight,SkyJet Airways0,305.98
+36,9,Cab,QuickRide19,482.96
+37,10,Bus,CityLink7,326.10
+38,10,Train,RailConnect4,128.25
+39,10,Flight,SkyJet Airways4,379.79
+40,10,Cab,QuickRide5,272.44
+41,11,Bus,CityLink2,281.58
+42,11,Train,RailConnect1,309.85
+43,11,Flight,SkyJet Airways3,303.40
+44,11,Cab,QuickRide12,383.79
+45,12,Bus,CityLink9,467.39
+46,12,Train,RailConnect0,153.25
+47,12,Flight,SkyJet Airways4,269.07
+48,12,Cab,QuickRide5,497.35
+49,13,Bus,CityLink5,287.82
+50,13,Train,RailConnect3,183.64
+51,13,Flight,SkyJet Airways4,373.61
+52,13,Cab,QuickRide15,463.93
+53,14,Bus,CityLink5,117.44
+54,14,Train,RailConnect3,274.49
+55,14,Flight,SkyJet Airways4,396.86
+56,14,Cab,QuickRide5,430.18
+57,15,Bus,CityLink2,308.90
+58,15,Train,RailConnect2,213.09
+59,15,Flight,SkyJet Airways4,482.62
+60,15,Cab,QuickRide0,100.95
+61,16,Bus,CityLink9,362.80
+62,16,Train,RailConnect2,381.79
+63,16,Flight,SkyJet Airways2,399.96
+64,16,Cab,QuickRide2,364.60
+65,17,Bus,CityLink7,227.53
+66,17,Train,RailConnect2,228.85
+67,17,Flight,SkyJet Airways0,480.82
+68,17,Cab,QuickRide0,170.93
+69,18,Bus,CityLink9,352.29
+70,18,Train,RailConnect3,198.43
+71,18,Flight,SkyJet Airways1,338.52
+72,18,Cab,QuickRide11,123.15
+73,19,Bus,CityLink4,493.90
+74,19,Train,RailConnect3,308.29
+75,19,Flight,SkyJet Airways1,361.83
+76,19,Cab,QuickRide16,314.31
+77,20,Bus,CityLink8,132.63
+78,20,Train,RailConnect0,419.05
+79,20,Flight,SkyJet Airways0,177.37
+80,20,Cab,QuickRide17,227.25
+81,21,Bus,CityLink6,357.28
+82,21,Train,RailConnect3,201.21
+83,21,Flight,SkyJet Airways2,445.58
+84,21,Cab,QuickRide5,316.88
+85,22,Bus,CityLink9,217.32
+86,22,Train,RailConnect3,311.70
+87,22,Flight,SkyJet Airways2,473.06
+88,22,Cab,QuickRide15,205.76
+89,23,Bus,CityLink4,356.31
+90,23,Train,RailConnect3,389.21
+91,23,Flight,SkyJet Airways3,142.97
+92,23,Cab,QuickRide5,470.44
+93,24,Bus,CityLink4,259.58
+94,24,Train,RailConnect1,251.40
+95,24,Flight,SkyJet Airways0,183.51
+96,24,Cab,QuickRide18,223.85
+97,25,Bus,CityLink0,419.93
+98,25,Train,RailConnect1,214.37
+99,25,Flight,SkyJet Airways2,200.24
+100,25,Cab,QuickRide9,483.95
+101,26,Bus,CityLink0,309.29
+102,26,Train,RailConnect4,201.62
+103,26,Flight,SkyJet Airways1,202.54
+104,26,Cab,QuickRide18,339.87
+105,27,Bus,CityLink3,209.41
+106,27,Train,RailConnect1,341.62
+107,27,Flight,SkyJet Airways1,244.48
+108,27,Cab,QuickRide8,137.85
+109,28,Bus,CityLink4,280.49
+110,28,Train,RailConnect4,428.67
+111,28,Flight,SkyJet Airways0,408.96
+112,28,Cab,QuickRide4,148.01
+113,29,Bus,CityLink3,288.19
+114,29,Train,RailConnect3,388.28
+115,29,Flight,SkyJet Airways1,186.16
+116,29,Cab,QuickRide10,321.00
+117,30,Bus,CityLink5,168.91
+118,30,Train,RailConnect1,469.31
+119,30,Flight,SkyJet Airways4,387.04
+120,30,Cab,QuickRide11,291.36
+121,31,Bus,CityLink5,403.20
+122,31,Train,RailConnect1,345.56
+123,31,Flight,SkyJet Airways3,171.95
+124,31,Cab,QuickRide6,400.40
+125,32,Bus,CityLink3,134.33
+126,32,Train,RailConnect4,358.59
+127,32,Flight,SkyJet Airways1,206.62
+128,32,Cab,QuickRide2,299.23
+129,33,Bus,CityLink7,430.59
+130,33,Train,RailConnect4,455.20
+131,33,Flight,SkyJet Airways1,293.38
+132,33,Cab,QuickRide10,311.80
+133,34,Bus,CityLink4,225.88
+134,34,Train,RailConnect2,411.92
+135,34,Flight,SkyJet Airways4,456.70
+136,34,Cab,QuickRide11,456.24
+137,35,Bus,CityLink5,471.50
+138,35,Train,RailConnect3,453.52
+139,35,Flight,SkyJet Airways4,427.76
+140,35,Cab,QuickRide7,152.16
+141,36,Bus,CityLink2,241.56
+142,36,Train,RailConnect1,481.52
+143,36,Flight,SkyJet Airways3,276.51
+144,36,Cab,QuickRide7,222.22
+145,37,Bus,CityLink9,477.20
+146,37,Train,RailConnect3,126.24
+147,37,Flight,SkyJet Airways4,258.19
+148,37,Cab,QuickRide17,339.43
+149,38,Bus,CityLink6,411.47
+150,38,Train,RailConnect3,238.24
+151,38,Flight,SkyJet Airways0,301.28
+152,38,Cab,QuickRide16,382.99
+153,39,Bus,CityLink7,348.16
+154,39,Train,RailConnect4,401.34
+155,39,Flight,SkyJet Airways3,292.44
+156,39,Cab,QuickRide11,222.65
+157,40,Bus,CityLink6,297.43
+158,40,Train,RailConnect4,231.04
+159,40,Flight,SkyJet Airways2,109.40
+160,40,Cab,QuickRide13,492.68
+161,41,Bus,CityLink9,493.37
+162,41,Train,RailConnect1,477.11
+163,41,Flight,SkyJet Airways3,336.98
+164,41,Cab,QuickRide6,110.30
+165,42,Bus,CityLink4,375.26
+166,42,Train,RailConnect3,497.70
+167,42,Flight,SkyJet Airways0,108.38
+168,42,Cab,QuickRide18,322.81
+169,43,Bus,CityLink0,138.03
+170,43,Train,RailConnect4,108.70
+171,43,Flight,SkyJet Airways0,464.51
+172,43,Cab,QuickRide15,406.17
+173,44,Bus,CityLink1,133.41
+174,44,Train,RailConnect1,341.39
+175,44,Flight,SkyJet Airways0,142.43
+176,44,Cab,QuickRide1,413.03
+177,45,Bus,CityLink5,366.88
+178,45,Train,RailConnect1,106.69
+179,45,Flight,SkyJet Airways3,462.03
+180,45,Cab,QuickRide1,361.91
+181,46,Bus,CityLink1,358.94
+182,46,Train,RailConnect4,318.93
+183,46,Flight,SkyJet Airways0,232.34
+184,46,Cab,QuickRide0,204.97
+185,47,Bus,CityLink2,253.92
+186,47,Train,RailConnect1,497.15
+187,47,Flight,SkyJet Airways4,138.05
+188,47,Cab,QuickRide16,457.00
+189,48,Bus,CityLink8,398.64
+190,48,Train,RailConnect2,497.88
+191,48,Flight,SkyJet Airways3,332.85
+192,48,Cab,QuickRide1,247.09
+193,49,Bus,CityLink7,164.08
+194,49,Train,RailConnect2,226.55
+195,49,Flight,SkyJet Airways3,388.31
+196,49,Cab,QuickRide16,494.06
+197,50,Bus,CityLink9,448.61
+198,50,Train,RailConnect4,362.69
+199,50,Flight,SkyJet Airways2,302.59
+200,50,Cab,QuickRide7,176.54
+201,51,Bus,CityLink3,310.14
+202,51,Train,RailConnect2,256.58
+203,51,Flight,SkyJet Airways2,278.66
+204,51,Cab,QuickRide0,296.05
+205,52,Bus,CityLink4,265.98
+206,52,Train,RailConnect2,260.63
+207,52,Flight,SkyJet Airways2,383.56
+208,52,Cab,QuickRide17,327.97
+209,53,Bus,CityLink7,328.44
+210,53,Train,RailConnect3,450.23
+211,53,Flight,SkyJet Airways3,173.96
+212,53,Cab,QuickRide17,184.24
+213,54,Bus,CityLink3,212.26
+214,54,Train,RailConnect4,335.68
+215,54,Flight,SkyJet Airways0,134.19
+216,54,Cab,QuickRide10,229.02
+217,55,Bus,CityLink1,227.89
+218,55,Train,RailConnect3,141.44
+219,55,Flight,SkyJet Airways3,260.49
+220,55,Cab,QuickRide0,152.13
+221,56,Bus,CityLink2,110.38
+222,56,Train,RailConnect3,270.97
+223,56,Flight,SkyJet Airways1,199.61
+224,56,Cab,QuickRide11,484.71
+225,57,Bus,CityLink1,219.26
+226,57,Train,RailConnect1,425.06
+227,57,Flight,SkyJet Airways3,378.92
+228,57,Cab,QuickRide8,463.12
+229,58,Bus,CityLink1,268.72
+230,58,Train,RailConnect3,160.50
+231,58,Flight,SkyJet Airways4,142.17
+232,58,Cab,QuickRide17,166.47
+233,59,Bus,CityLink4,369.24
+234,59,Train,RailConnect0,100.17
+235,59,Flight,SkyJet Airways3,363.07
+236,59,Cab,QuickRide12,193.42
+237,60,Bus,CityLink3,156.92
+238,60,Train,RailConnect2,378.12
+239,60,Flight,SkyJet Airways0,300.20
+240,60,Cab,QuickRide6,451.82
+241,61,Bus,CityLink6,334.94
+242,61,Train,RailConnect0,395.53
+243,61,Flight,SkyJet Airways4,365.27
+244,61,Cab,QuickRide9,473.90
+245,62,Bus,CityLink7,447.89
+246,62,Train,RailConnect0,488.20
+247,62,Flight,SkyJet Airways4,223.95
+248,62,Cab,QuickRide17,429.42
+249,63,Bus,CityLink0,497.22
+250,63,Train,RailConnect3,474.87
+251,63,Flight,SkyJet Airways3,393.30
+252,63,Cab,QuickRide11,121.12
+253,64,Bus,CityLink1,125.23
+254,64,Train,RailConnect1,293.90
+255,64,Flight,SkyJet Airways2,452.33
+256,64,Cab,QuickRide19,255.70
+257,65,Bus,CityLink7,429.84
+258,65,Train,RailConnect1,498.42
+259,65,Flight,SkyJet Airways2,145.83
+260,65,Cab,QuickRide16,309.21
+261,66,Bus,CityLink7,357.12
+262,66,Train,RailConnect2,403.21
+263,66,Flight,SkyJet Airways4,129.47
+264,66,Cab,QuickRide14,208.64
+265,67,Bus,CityLink7,376.62
+266,67,Train,RailConnect1,215.89
+267,67,Flight,SkyJet Airways4,377.28
+268,67,Cab,QuickRide6,418.40
+269,68,Bus,CityLink9,218.55
+270,68,Train,RailConnect2,374.92
+271,68,Flight,SkyJet Airways1,362.02
+272,68,Cab,QuickRide7,445.32
+273,69,Bus,CityLink0,163.98
+274,69,Train,RailConnect3,181.39
+275,69,Flight,SkyJet Airways3,227.22
+276,69,Cab,QuickRide4,406.12
+277,70,Bus,CityLink7,223.06
+278,70,Train,RailConnect4,410.93
+279,70,Flight,SkyJet Airways4,167.71
+280,70,Cab,QuickRide15,126.15
+281,71,Bus,CityLink2,120.27
+282,71,Train,RailConnect4,181.07
+283,71,Flight,SkyJet Airways2,475.94
+284,71,Cab,QuickRide12,171.29
+285,72,Bus,CityLink6,197.46
+286,72,Train,RailConnect4,342.18
+287,72,Flight,SkyJet Airways0,299.81
+288,72,Cab,QuickRide18,447.00
+289,73,Bus,CityLink3,419.80
+290,73,Train,RailConnect2,282.36
+291,73,Flight,SkyJet Airways2,241.82
+292,73,Cab,QuickRide8,431.81
+293,74,Bus,CityLink1,125.38
+294,74,Train,RailConnect3,284.83
+295,74,Flight,SkyJet Airways2,225.39
+296,74,Cab,QuickRide3,166.14
+297,75,Bus,CityLink3,140.28
+298,75,Train,RailConnect2,284.62
+299,75,Flight,SkyJet Airways2,153.97
+300,75,Cab,QuickRide0,367.30
+301,76,Bus,CityLink9,217.09
+302,76,Train,RailConnect3,238.28
+303,76,Flight,SkyJet Airways1,407.84
+304,76,Cab,QuickRide5,129.39
+305,77,Bus,CityLink9,461.75
+306,77,Train,RailConnect4,262.96
+307,77,Flight,SkyJet Airways0,381.42
+308,77,Cab,QuickRide9,267.86
+309,78,Bus,CityLink0,418.70
+310,78,Train,RailConnect1,471.01
+311,78,Flight,SkyJet Airways3,232.57
+312,78,Cab,QuickRide8,462.87
+313,79,Bus,CityLink0,293.47
+314,79,Train,RailConnect4,264.23
+315,79,Flight,SkyJet Airways3,255.33
+316,79,Cab,QuickRide12,242.92
+317,80,Bus,CityLink9,458.15
+318,80,Train,RailConnect4,396.14
+319,80,Flight,SkyJet Airways0,272.36
+320,80,Cab,QuickRide8,382.85
+321,81,Bus,CityLink2,124.01
+322,81,Train,RailConnect4,179.01
+323,81,Flight,SkyJet Airways3,139.39
+324,81,Cab,QuickRide12,290.32
+325,82,Bus,CityLink0,359.88
+326,82,Train,RailConnect1,150.55
+327,82,Flight,SkyJet Airways0,326.53
+328,82,Cab,QuickRide4,469.57
+329,83,Bus,CityLink4,184.68
+330,83,Train,RailConnect4,373.78
+331,83,Flight,SkyJet Airways3,194.09
+332,83,Cab,QuickRide3,349.13
+333,84,Bus,CityLink5,316.11
+334,84,Train,RailConnect1,404.02
+335,84,Flight,SkyJet Airways4,187.87
+336,84,Cab,QuickRide11,132.58
+337,85,Bus,CityLink6,398.19
+338,85,Train,RailConnect0,479.84
+339,85,Flight,SkyJet Airways2,278.95
+340,85,Cab,QuickRide3,301.65
+341,86,Bus,CityLink2,339.28
+342,86,Train,RailConnect4,212.40
+343,86,Flight,SkyJet Airways2,497.23
+344,86,Cab,QuickRide6,244.07
+345,87,Bus,CityLink0,304.06
+346,87,Train,RailConnect4,370.06
+347,87,Flight,SkyJet Airways0,298.66
+348,87,Cab,QuickRide9,211.52
+349,88,Bus,CityLink3,150.62
+350,88,Train,RailConnect2,240.19
+351,88,Flight,SkyJet Airways4,290.33
+352,88,Cab,QuickRide6,294.77
+353,89,Bus,CityLink6,168.37
+354,89,Train,RailConnect1,288.67
+355,89,Flight,SkyJet Airways0,245.33
+356,89,Cab,QuickRide4,243.58
+357,90,Bus,CityLink1,435.52
+358,90,Train,RailConnect3,292.47
+359,90,Flight,SkyJet Airways2,189.43
+360,90,Cab,QuickRide7,376.76
+361,91,Bus,CityLink3,153.14
+362,91,Train,RailConnect1,330.25
+363,91,Flight,SkyJet Airways0,426.63
+364,91,Cab,QuickRide9,320.76
+365,92,Bus,CityLink0,255.01
+366,92,Train,RailConnect3,399.08
+367,92,Flight,SkyJet Airways0,102.25
+368,92,Cab,QuickRide16,440.89
+369,93,Bus,CityLink6,303.14
+370,93,Train,RailConnect0,216.41
+371,93,Flight,SkyJet Airways3,477.29
+372,93,Cab,QuickRide0,389.02
+373,94,Bus,CityLink2,479.83
+374,94,Train,RailConnect0,471.33
+375,94,Flight,SkyJet Airways2,487.46
+376,94,Cab,QuickRide4,389.56
+377,95,Bus,CityLink1,354.46
+378,95,Train,RailConnect3,291.18
+379,95,Flight,SkyJet Airways4,184.14
+380,95,Cab,QuickRide4,388.80
+381,96,Bus,CityLink3,260.82
+382,96,Train,RailConnect4,106.12
+383,96,Flight,SkyJet Airways1,402.99
+384,96,Cab,QuickRide6,212.26
+385,97,Bus,CityLink1,425.97
+386,97,Train,RailConnect2,123.82
+387,97,Flight,SkyJet Airways1,416.81
+388,97,Cab,QuickRide4,408.96
+389,98,Bus,CityLink7,297.97
+390,98,Train,RailConnect2,418.38
+391,98,Flight,SkyJet Airways0,463.71
+392,98,Cab,QuickRide19,279.65
+393,99,Bus,CityLink3,243.66
+394,99,Train,RailConnect1,399.02
+395,99,Flight,SkyJet Airways3,386.84
+396,99,Cab,QuickRide12,434.96
+397,100,Bus,CityLink2,486.10
+398,100,Train,RailConnect1,213.96
+399,100,Flight,SkyJet Airways4,417.28
+400,100,Cab,QuickRide10,263.58
+401,101,Bus,CityLink1,429.45
+402,101,Train,RailConnect4,206.99
+403,101,Flight,SkyJet Airways3,172.60
+404,101,Cab,QuickRide8,116.05
+405,102,Bus,CityLink8,348.84
+406,102,Train,RailConnect1,290.90
+407,102,Flight,SkyJet Airways0,473.80
+408,102,Cab,QuickRide0,177.68
+409,274,Bus,CityLink6,389.48
+410,274,Train,RailConnect0,496.87
+411,274,Flight,SkyJet Airways2,453.06
+412,274,Cab,QuickRide18,410.52
+413,103,Bus,CityLink6,309.04
+414,103,Train,RailConnect3,278.63
+415,103,Flight,SkyJet Airways4,137.88
+416,103,Cab,QuickRide14,127.57
+417,104,Bus,CityLink9,486.25
+418,104,Train,RailConnect3,248.26
+419,104,Flight,SkyJet Airways3,281.21
+420,104,Cab,QuickRide9,181.67
+421,105,Bus,CityLink4,110.93
+422,105,Train,RailConnect2,142.30
+423,105,Flight,SkyJet Airways1,205.77
+424,105,Cab,QuickRide2,265.60
+425,106,Bus,CityLink2,162.64
+426,106,Train,RailConnect1,290.85
+427,106,Flight,SkyJet Airways0,129.00
+428,106,Cab,QuickRide0,488.68
+429,107,Bus,CityLink4,220.90
+430,107,Train,RailConnect3,163.42
+431,107,Flight,SkyJet Airways0,402.03
+432,107,Cab,QuickRide3,459.46
+433,108,Bus,CityLink9,467.45
+434,108,Train,RailConnect0,159.24
+435,108,Flight,SkyJet Airways2,191.39
+436,108,Cab,QuickRide9,388.36
+437,109,Bus,CityLink2,312.69
+438,109,Train,RailConnect0,156.35
+439,109,Flight,SkyJet Airways1,371.33
+440,109,Cab,QuickRide15,340.72
+441,110,Bus,CityLink5,360.72
+442,110,Train,RailConnect0,138.30
+443,110,Flight,SkyJet Airways0,479.00
+444,110,Cab,QuickRide11,488.96
+445,111,Bus,CityLink2,100.64
+446,111,Train,RailConnect2,265.00
+447,111,Flight,SkyJet Airways2,368.24
+448,111,Cab,QuickRide10,194.33
+449,112,Bus,CityLink1,444.30
+450,112,Train,RailConnect0,329.27
+451,112,Flight,SkyJet Airways2,232.85
+452,112,Cab,QuickRide6,474.28
+453,113,Bus,CityLink9,279.87
+454,113,Train,RailConnect0,389.17
+455,113,Flight,SkyJet Airways2,251.66
+456,113,Cab,QuickRide18,489.24
+457,114,Bus,CityLink1,485.22
+458,114,Train,RailConnect0,447.10
+459,114,Flight,SkyJet Airways2,341.13
+460,114,Cab,QuickRide7,160.22
+461,115,Bus,CityLink5,296.09
+462,115,Train,RailConnect4,157.26
+463,115,Flight,SkyJet Airways4,115.31
+464,115,Cab,QuickRide10,167.03
+465,116,Bus,CityLink9,268.14
+466,116,Train,RailConnect0,211.21
+467,116,Flight,SkyJet Airways3,376.30
+468,116,Cab,QuickRide9,272.08
+469,117,Bus,CityLink6,137.63
+470,117,Train,RailConnect2,372.87
+471,117,Flight,SkyJet Airways0,297.56
+472,117,Cab,QuickRide16,210.58
+473,118,Bus,CityLink9,144.34
+474,118,Train,RailConnect4,133.10
+475,118,Flight,SkyJet Airways2,497.07
+476,118,Cab,QuickRide7,315.03
+477,119,Bus,CityLink6,484.35
+478,119,Train,RailConnect2,320.50
+479,119,Flight,SkyJet Airways4,343.11
+480,119,Cab,QuickRide3,306.97
+481,120,Bus,CityLink2,373.62
+482,120,Train,RailConnect0,268.46
+483,120,Flight,SkyJet Airways4,276.80
+484,120,Cab,QuickRide19,210.54
+485,121,Bus,CityLink6,147.22
+486,121,Train,RailConnect2,309.48
+487,121,Flight,SkyJet Airways2,138.68
+488,121,Cab,QuickRide0,499.67
+489,122,Bus,CityLink5,391.56
+490,122,Train,RailConnect0,164.10
+491,122,Flight,SkyJet Airways3,389.57
+492,122,Cab,QuickRide4,130.04
+493,123,Bus,CityLink9,306.18
+494,123,Train,RailConnect2,175.07
+495,123,Flight,SkyJet Airways0,472.08
+496,123,Cab,QuickRide0,363.74
+497,124,Bus,CityLink8,195.22
+498,124,Train,RailConnect1,174.64
+499,124,Flight,SkyJet Airways2,411.15
+500,124,Cab,QuickRide5,369.86
+501,125,Bus,CityLink2,236.27
+502,125,Train,RailConnect4,416.50
+503,125,Flight,SkyJet Airways4,473.70
+504,125,Cab,QuickRide7,228.39
+505,126,Bus,CityLink6,234.00
+506,126,Train,RailConnect3,234.60
+507,126,Flight,SkyJet Airways2,185.30
+508,126,Cab,QuickRide3,462.00
+509,127,Bus,CityLink6,225.46
+510,127,Train,RailConnect1,220.47
+511,127,Flight,SkyJet Airways3,437.11
+512,127,Cab,QuickRide10,473.65
+513,128,Bus,CityLink0,495.15
+514,128,Train,RailConnect4,497.29
+515,128,Flight,SkyJet Airways4,386.81
+516,128,Cab,QuickRide19,475.85
+517,129,Bus,CityLink9,497.26
+518,129,Train,RailConnect2,322.87
+519,129,Flight,SkyJet Airways1,262.79
+520,129,Cab,QuickRide8,371.98
+521,130,Bus,CityLink3,295.45
+522,130,Train,RailConnect0,489.54
+523,130,Flight,SkyJet Airways0,150.43
+524,130,Cab,QuickRide4,322.46
+525,131,Bus,CityLink4,217.02
+526,131,Train,RailConnect0,189.67
+527,131,Flight,SkyJet Airways1,311.52
+528,131,Cab,QuickRide7,132.13
+529,132,Bus,CityLink5,195.87
+530,132,Train,RailConnect2,120.95
+531,132,Flight,SkyJet Airways1,204.64
+532,132,Cab,QuickRide13,308.34
+533,133,Bus,CityLink3,275.51
+534,133,Train,RailConnect1,238.42
+535,133,Flight,SkyJet Airways4,465.68
+536,133,Cab,QuickRide12,313.05
+537,134,Bus,CityLink1,301.16
+538,134,Train,RailConnect2,170.39
+539,134,Flight,SkyJet Airways3,150.08
+540,134,Cab,QuickRide0,356.78
+541,135,Bus,CityLink7,138.39
+542,135,Train,RailConnect4,401.19
+543,135,Flight,SkyJet Airways3,439.61
+544,135,Cab,QuickRide16,292.72
+545,136,Bus,CityLink2,495.53
+546,136,Train,RailConnect0,269.20
+547,136,Flight,SkyJet Airways3,344.19
+548,136,Cab,QuickRide15,205.33
+549,137,Bus,CityLink3,390.66
+550,137,Train,RailConnect4,402.95
+551,137,Flight,SkyJet Airways1,406.44
+552,137,Cab,QuickRide6,351.52
+553,138,Bus,CityLink5,419.22
+554,138,Train,RailConnect4,224.98
+555,138,Flight,SkyJet Airways1,215.31
+556,138,Cab,QuickRide3,321.64
+557,139,Bus,CityLink5,197.81
+558,139,Train,RailConnect1,284.79
+559,139,Flight,SkyJet Airways1,189.38
+560,139,Cab,QuickRide18,387.20
+561,140,Bus,CityLink5,441.41
+562,140,Train,RailConnect4,275.23
+563,140,Flight,SkyJet Airways4,378.61
+564,140,Cab,QuickRide13,253.44
+565,141,Bus,CityLink3,427.85
+566,141,Train,RailConnect3,243.22
+567,141,Flight,SkyJet Airways3,177.72
+568,141,Cab,QuickRide4,227.15
+569,142,Bus,CityLink9,499.89
+570,142,Train,RailConnect1,408.87
+571,142,Flight,SkyJet Airways4,180.72
+572,142,Cab,QuickRide19,356.51
+573,143,Bus,CityLink9,270.60
+574,143,Train,RailConnect2,120.87
+575,143,Flight,SkyJet Airways0,455.26
+576,143,Cab,QuickRide2,491.70
+577,144,Bus,CityLink2,291.10
+578,144,Train,RailConnect1,444.34
+579,144,Flight,SkyJet Airways2,394.07
+580,144,Cab,QuickRide8,410.92
+581,145,Bus,CityLink9,265.04
+582,145,Train,RailConnect4,309.63
+583,145,Flight,SkyJet Airways0,379.14
+584,145,Cab,QuickRide1,112.71
+585,146,Bus,CityLink7,185.88
+586,146,Train,RailConnect4,186.65
+587,146,Flight,SkyJet Airways0,166.68
+588,146,Cab,QuickRide5,427.02
+589,147,Bus,CityLink0,456.95
+590,147,Train,RailConnect2,234.77
+591,147,Flight,SkyJet Airways0,207.07
+592,147,Cab,QuickRide10,397.24
+593,148,Bus,CityLink6,111.76
+594,148,Train,RailConnect3,471.38
+595,148,Flight,SkyJet Airways0,326.97
+596,148,Cab,QuickRide6,339.07
+597,149,Bus,CityLink7,242.76
+598,149,Train,RailConnect3,192.47
+599,149,Flight,SkyJet Airways4,334.27
+600,149,Cab,QuickRide12,468.04
+601,150,Bus,CityLink9,167.47
+602,150,Train,RailConnect1,135.56
+603,150,Flight,SkyJet Airways2,172.54
+604,150,Cab,QuickRide3,487.06
+605,151,Bus,CityLink5,187.72
+606,151,Train,RailConnect3,100.70
+607,151,Flight,SkyJet Airways4,419.85
+608,151,Cab,QuickRide5,275.26
+609,152,Bus,CityLink3,272.24
+610,152,Train,RailConnect3,479.58
+611,152,Flight,SkyJet Airways1,299.99
+612,152,Cab,QuickRide14,263.59
+613,153,Bus,CityLink7,366.16
+614,153,Train,RailConnect2,396.99
+615,153,Flight,SkyJet Airways0,242.90
+616,153,Cab,QuickRide6,494.83
+617,154,Bus,CityLink9,310.69
+618,154,Train,RailConnect2,207.23
+619,154,Flight,SkyJet Airways4,157.35
+620,154,Cab,QuickRide18,376.06
+621,155,Bus,CityLink1,170.61
+622,155,Train,RailConnect3,363.14
+623,155,Flight,SkyJet Airways3,452.68
+624,155,Cab,QuickRide15,284.83
+625,156,Bus,CityLink7,169.73
+626,156,Train,RailConnect2,383.22
+627,156,Flight,SkyJet Airways4,484.60
+628,156,Cab,QuickRide13,393.78
+629,157,Bus,CityLink8,315.21
+630,157,Train,RailConnect2,431.56
+631,157,Flight,SkyJet Airways0,358.04
+632,157,Cab,QuickRide10,474.78
+633,158,Bus,CityLink4,413.40
+634,158,Train,RailConnect2,104.75
+635,158,Flight,SkyJet Airways0,454.74
+636,158,Cab,QuickRide10,142.51
+637,159,Bus,CityLink5,123.29
+638,159,Train,RailConnect3,130.89
+639,159,Flight,SkyJet Airways4,168.71
+640,159,Cab,QuickRide12,483.84
+641,160,Bus,CityLink7,345.41
+642,160,Train,RailConnect4,327.31
+643,160,Flight,SkyJet Airways2,353.55
+644,160,Cab,QuickRide15,467.89
+645,161,Bus,CityLink6,405.39
+646,161,Train,RailConnect2,233.98
+647,161,Flight,SkyJet Airways2,306.75
+648,161,Cab,QuickRide8,323.16
+649,162,Bus,CityLink2,158.98
+650,162,Train,RailConnect4,184.64
+651,162,Flight,SkyJet Airways0,490.92
+652,162,Cab,QuickRide18,196.55
+653,163,Bus,CityLink3,244.00
+654,163,Train,RailConnect0,278.09
+655,163,Flight,SkyJet Airways3,173.87
+656,163,Cab,QuickRide3,432.46
+657,164,Bus,CityLink9,249.63
+658,164,Train,RailConnect1,120.76
+659,164,Flight,SkyJet Airways3,396.39
+660,164,Cab,QuickRide6,113.05
+661,165,Bus,CityLink1,234.06
+662,165,Train,RailConnect3,422.44
+663,165,Flight,SkyJet Airways1,181.16
+664,165,Cab,QuickRide19,365.50
+665,166,Bus,CityLink4,218.26
+666,166,Train,RailConnect1,471.93
+667,166,Flight,SkyJet Airways2,354.92
+668,166,Cab,QuickRide9,452.90
+669,167,Bus,CityLink7,433.49
+670,167,Train,RailConnect3,472.85
+671,167,Flight,SkyJet Airways2,393.16
+672,167,Cab,QuickRide14,398.34
+673,168,Bus,CityLink3,206.02
+674,168,Train,RailConnect0,383.10
+675,168,Flight,SkyJet Airways3,468.07
+676,168,Cab,QuickRide15,284.65
+677,169,Bus,CityLink4,379.82
+678,169,Train,RailConnect4,398.78
+679,169,Flight,SkyJet Airways3,328.85
+680,169,Cab,QuickRide12,318.87
+681,170,Bus,CityLink6,232.44
+682,170,Train,RailConnect1,111.19
+683,170,Flight,SkyJet Airways0,315.19
+684,170,Cab,QuickRide9,481.81
+685,171,Bus,CityLink4,143.74
+686,171,Train,RailConnect3,286.07
+687,171,Flight,SkyJet Airways3,209.57
+688,171,Cab,QuickRide7,165.08
+689,172,Bus,CityLink6,171.60
+690,172,Train,RailConnect1,388.78
+691,172,Flight,SkyJet Airways1,394.30
+692,172,Cab,QuickRide1,311.37
+693,173,Bus,CityLink1,187.04
+694,173,Train,RailConnect0,228.80
+695,173,Flight,SkyJet Airways2,297.26
+696,173,Cab,QuickRide9,275.14
+697,174,Bus,CityLink1,485.45
+698,174,Train,RailConnect4,268.49
+699,174,Flight,SkyJet Airways2,240.40
+700,174,Cab,QuickRide10,424.91
+701,175,Bus,CityLink9,441.91
+702,175,Train,RailConnect2,203.11
+703,175,Flight,SkyJet Airways1,182.20
+704,175,Cab,QuickRide12,155.50
+705,176,Bus,CityLink8,212.86
+706,176,Train,RailConnect4,444.17
+707,176,Flight,SkyJet Airways4,313.94
+708,176,Cab,QuickRide6,329.04
+709,177,Bus,CityLink9,494.91
+710,177,Train,RailConnect4,379.75
+711,177,Flight,SkyJet Airways0,492.77
+712,177,Cab,QuickRide7,234.09
+713,178,Bus,CityLink4,160.57
+714,178,Train,RailConnect1,189.35
+715,178,Flight,SkyJet Airways1,312.29
+716,178,Cab,QuickRide18,113.69
+717,179,Bus,CityLink2,313.24
+718,179,Train,RailConnect4,371.51
+719,179,Flight,SkyJet Airways1,280.86
+720,179,Cab,QuickRide15,230.82
+721,180,Bus,CityLink2,427.31
+722,180,Train,RailConnect0,491.13
+723,180,Flight,SkyJet Airways1,303.82
+724,180,Cab,QuickRide15,363.30
+725,181,Bus,CityLink4,182.72
+726,181,Train,RailConnect3,449.44
+727,181,Flight,SkyJet Airways2,105.57
+728,181,Cab,QuickRide7,139.04
+729,182,Bus,CityLink3,471.69
+730,182,Train,RailConnect0,224.90
+731,182,Flight,SkyJet Airways1,309.58
+732,182,Cab,QuickRide3,270.07
+733,183,Bus,CityLink2,391.71
+734,183,Train,RailConnect2,273.35
+735,183,Flight,SkyJet Airways0,270.33
+736,183,Cab,QuickRide2,332.04
+737,184,Bus,CityLink0,459.93
+738,184,Train,RailConnect0,276.65
+739,184,Flight,SkyJet Airways3,143.31
+740,184,Cab,QuickRide13,421.86
+741,185,Bus,CityLink3,322.20
+742,185,Train,RailConnect3,466.36
+743,185,Flight,SkyJet Airways0,360.50
+744,185,Cab,QuickRide10,138.37
+745,186,Bus,CityLink0,256.55
+746,186,Train,RailConnect1,134.47
+747,186,Flight,SkyJet Airways0,345.85
+748,186,Cab,QuickRide11,376.68
+749,187,Bus,CityLink4,362.67
+750,187,Train,RailConnect0,481.43
+751,187,Flight,SkyJet Airways1,346.70
+752,187,Cab,QuickRide0,375.25
+753,188,Bus,CityLink1,468.33
+754,188,Train,RailConnect4,278.07
+755,188,Flight,SkyJet Airways1,403.52
+756,188,Cab,QuickRide16,108.22
+757,189,Bus,CityLink1,428.67
+758,189,Train,RailConnect1,259.69
+759,189,Flight,SkyJet Airways1,482.47
+760,189,Cab,QuickRide9,133.51
+761,190,Bus,CityLink8,303.21
+762,190,Train,RailConnect3,309.81
+763,190,Flight,SkyJet Airways2,315.91
+764,190,Cab,QuickRide14,285.46
+765,191,Bus,CityLink2,139.06
+766,191,Train,RailConnect0,322.00
+767,191,Flight,SkyJet Airways4,247.89
+768,191,Cab,QuickRide2,337.32
+769,192,Bus,CityLink4,174.77
+770,192,Train,RailConnect2,320.12
+771,192,Flight,SkyJet Airways0,177.50
+772,192,Cab,QuickRide10,301.70
+773,193,Bus,CityLink6,269.17
+774,193,Train,RailConnect2,198.44
+775,193,Flight,SkyJet Airways3,231.61
+776,193,Cab,QuickRide17,440.43
+777,194,Bus,CityLink7,181.52
+778,194,Train,RailConnect0,433.90
+779,194,Flight,SkyJet Airways3,350.37
+780,194,Cab,QuickRide14,243.53
+781,195,Bus,CityLink4,421.43
+782,195,Train,RailConnect0,264.77
+783,195,Flight,SkyJet Airways3,326.63
+784,195,Cab,QuickRide1,156.04
+785,196,Bus,CityLink5,361.92
+786,196,Train,RailConnect1,240.79
+787,196,Flight,SkyJet Airways0,361.04
+788,196,Cab,QuickRide17,353.04
+789,197,Bus,CityLink9,464.30
+790,197,Train,RailConnect2,270.65
+791,197,Flight,SkyJet Airways3,190.16
+792,197,Cab,QuickRide11,386.23
+793,198,Bus,CityLink4,479.60
+794,198,Train,RailConnect0,191.47
+795,198,Flight,SkyJet Airways1,302.93
+796,198,Cab,QuickRide9,485.23
+797,199,Bus,CityLink1,350.95
+798,199,Train,RailConnect0,430.68
+799,199,Flight,SkyJet Airways2,399.46
+800,199,Cab,QuickRide14,169.86
+801,200,Bus,CityLink0,327.13
+802,200,Train,RailConnect0,184.65
+803,200,Flight,SkyJet Airways2,161.13
+804,200,Cab,QuickRide19,327.30
+805,201,Bus,CityLink7,378.36
+806,201,Train,RailConnect1,176.37
+807,201,Flight,SkyJet Airways3,131.56
+808,201,Cab,QuickRide8,169.44
+809,202,Bus,CityLink0,205.09
+810,202,Train,RailConnect0,345.00
+811,202,Flight,SkyJet Airways1,478.05
+812,202,Cab,QuickRide10,250.10
+813,203,Bus,CityLink9,324.49
+814,203,Train,RailConnect4,302.07
+815,203,Flight,SkyJet Airways3,198.93
+816,203,Cab,QuickRide5,433.80
+817,204,Bus,CityLink8,104.76
+818,204,Train,RailConnect2,211.07
+819,204,Flight,SkyJet Airways2,227.44
+820,204,Cab,QuickRide19,459.31
+821,205,Bus,CityLink0,220.39
+822,205,Train,RailConnect0,499.31
+823,205,Flight,SkyJet Airways4,100.02
+824,205,Cab,QuickRide7,464.82
+825,206,Bus,CityLink2,156.52
+826,206,Train,RailConnect2,239.10
+827,206,Flight,SkyJet Airways3,472.60
+828,206,Cab,QuickRide4,117.59
+829,207,Bus,CityLink0,456.31
+830,207,Train,RailConnect4,297.30
+831,207,Flight,SkyJet Airways3,377.34
+832,207,Cab,QuickRide0,161.19
+833,208,Bus,CityLink7,245.70
+834,208,Train,RailConnect2,436.34
+835,208,Flight,SkyJet Airways0,171.70
+836,208,Cab,QuickRide12,234.29
+837,209,Bus,CityLink7,208.41
+838,209,Train,RailConnect4,463.50
+839,209,Flight,SkyJet Airways2,158.05
+840,209,Cab,QuickRide7,441.42
+841,210,Bus,CityLink2,326.14
+842,210,Train,RailConnect1,183.62
+843,210,Flight,SkyJet Airways4,484.79
+844,210,Cab,QuickRide14,287.85
+845,211,Bus,CityLink8,247.86
+846,211,Train,RailConnect3,395.63
+847,211,Flight,SkyJet Airways2,236.22
+848,211,Cab,QuickRide18,357.66
+849,212,Bus,CityLink2,460.66
+850,212,Train,RailConnect1,289.23
+851,212,Flight,SkyJet Airways4,370.84
+852,212,Cab,QuickRide13,258.62
+853,213,Bus,CityLink6,190.54
+854,213,Train,RailConnect2,147.88
+855,213,Flight,SkyJet Airways1,448.98
+856,213,Cab,QuickRide6,220.28
+857,214,Bus,CityLink1,420.74
+858,214,Train,RailConnect3,494.68
+859,214,Flight,SkyJet Airways1,486.30
+860,214,Cab,QuickRide0,430.55
+861,215,Bus,CityLink0,161.92
+862,215,Train,RailConnect0,242.42
+863,215,Flight,SkyJet Airways4,433.93
+864,215,Cab,QuickRide0,475.73
+865,216,Bus,CityLink0,344.34
+866,216,Train,RailConnect1,332.41
+867,216,Flight,SkyJet Airways4,236.01
+868,216,Cab,QuickRide2,213.43
+869,217,Bus,CityLink3,279.38
+870,217,Train,RailConnect0,362.35
+871,217,Flight,SkyJet Airways0,188.02
+872,217,Cab,QuickRide19,499.11
+873,218,Bus,CityLink8,371.91
+874,218,Train,RailConnect3,180.02
+875,218,Flight,SkyJet Airways1,295.32
+876,218,Cab,QuickRide1,177.89
+877,219,Bus,CityLink3,146.64
+878,219,Train,RailConnect1,239.54
+879,219,Flight,SkyJet Airways1,489.12
+880,219,Cab,QuickRide9,187.22
+881,220,Bus,CityLink8,461.91
+882,220,Train,RailConnect0,388.81
+883,220,Flight,SkyJet Airways4,122.59
+884,220,Cab,QuickRide4,411.01
+885,221,Bus,CityLink2,323.06
+886,221,Train,RailConnect4,129.57
+887,221,Flight,SkyJet Airways0,348.23
+888,221,Cab,QuickRide9,493.80
+889,222,Bus,CityLink0,313.36
+890,222,Train,RailConnect2,335.23
+891,222,Flight,SkyJet Airways4,497.13
+892,222,Cab,QuickRide6,316.78
+893,223,Bus,CityLink0,333.59
+894,223,Train,RailConnect0,173.19
+895,223,Flight,SkyJet Airways4,412.20
+896,223,Cab,QuickRide19,261.03
+897,224,Bus,CityLink9,103.21
+898,224,Train,RailConnect4,364.43
+899,224,Flight,SkyJet Airways0,418.38
+900,224,Cab,QuickRide9,132.57
+901,225,Bus,CityLink0,147.22
+902,225,Train,RailConnect4,493.96
+903,225,Flight,SkyJet Airways2,262.75
+904,225,Cab,QuickRide11,312.69
+905,226,Bus,CityLink8,415.88
+906,226,Train,RailConnect1,123.09
+907,226,Flight,SkyJet Airways0,120.49
+908,226,Cab,QuickRide1,203.00
+909,227,Bus,CityLink3,333.23
+910,227,Train,RailConnect0,337.13
+911,227,Flight,SkyJet Airways1,429.85
+912,227,Cab,QuickRide4,133.71
+913,228,Bus,CityLink0,185.37
+914,228,Train,RailConnect3,324.16
+915,228,Flight,SkyJet Airways2,278.92
+916,228,Cab,QuickRide11,374.31
+917,229,Bus,CityLink5,192.13
+918,229,Train,RailConnect1,274.29
+919,229,Flight,SkyJet Airways1,221.98
+920,229,Cab,QuickRide11,405.57
+921,230,Bus,CityLink0,407.91
+922,230,Train,RailConnect4,340.55
+923,230,Flight,SkyJet Airways2,215.61
+924,230,Cab,QuickRide14,149.93
+925,231,Bus,CityLink8,272.61
+926,231,Train,RailConnect4,413.91
+927,231,Flight,SkyJet Airways3,160.90
+928,231,Cab,QuickRide18,284.71
+929,232,Bus,CityLink7,124.46
+930,232,Train,RailConnect1,254.10
+931,232,Flight,SkyJet Airways1,471.20
+932,232,Cab,QuickRide19,314.61
+933,233,Bus,CityLink1,125.77
+934,233,Train,RailConnect4,319.41
+935,233,Flight,SkyJet Airways1,401.43
+936,233,Cab,QuickRide16,430.38
+937,234,Bus,CityLink4,494.25
+938,234,Train,RailConnect0,175.22
+939,234,Flight,SkyJet Airways1,417.29
+940,234,Cab,QuickRide14,317.52
+941,235,Bus,CityLink9,464.60
+942,235,Train,RailConnect0,377.24
+943,235,Flight,SkyJet Airways1,176.13
+944,235,Cab,QuickRide0,427.90
+945,236,Bus,CityLink9,259.98
+946,236,Train,RailConnect4,361.86
+947,236,Flight,SkyJet Airways4,442.73
+948,236,Cab,QuickRide17,318.61
+949,237,Bus,CityLink7,294.11
+950,237,Train,RailConnect3,232.69
+951,237,Flight,SkyJet Airways0,137.11
+952,237,Cab,QuickRide7,348.05
+953,238,Bus,CityLink0,260.51
+954,238,Train,RailConnect3,164.27
+955,238,Flight,SkyJet Airways2,186.62
+956,238,Cab,QuickRide7,327.87
+957,239,Bus,CityLink8,499.03
+958,239,Train,RailConnect2,459.71
+959,239,Flight,SkyJet Airways2,265.66
+960,239,Cab,QuickRide5,352.59
+961,240,Bus,CityLink5,306.01
+962,240,Train,RailConnect4,169.56
+963,240,Flight,SkyJet Airways2,363.51
+964,240,Cab,QuickRide11,476.95
+965,241,Bus,CityLink8,294.06
+966,241,Train,RailConnect0,384.65
+967,241,Flight,SkyJet Airways3,178.50
+968,241,Cab,QuickRide15,179.34
+969,242,Bus,CityLink0,306.75
+970,242,Train,RailConnect0,499.39
+971,242,Flight,SkyJet Airways4,113.54
+972,242,Cab,QuickRide15,223.82
+973,243,Bus,CityLink3,403.08
+974,243,Train,RailConnect3,312.88
+975,243,Flight,SkyJet Airways2,292.93
+976,243,Cab,QuickRide3,136.16
+977,244,Bus,CityLink3,366.61
+978,244,Train,RailConnect2,245.43
+979,244,Flight,SkyJet Airways1,302.91
+980,244,Cab,QuickRide13,240.22
+981,245,Bus,CityLink6,373.71
+982,245,Train,RailConnect4,177.25
+983,245,Flight,SkyJet Airways4,135.92
+984,245,Cab,QuickRide16,245.18
+985,246,Bus,CityLink3,143.37
+986,246,Train,RailConnect2,318.83
+987,246,Flight,SkyJet Airways4,318.94
+988,246,Cab,QuickRide14,236.66
+989,247,Bus,CityLink0,284.72
+990,247,Train,RailConnect2,229.68
+991,247,Flight,SkyJet Airways1,270.55
+992,247,Cab,QuickRide0,410.16
+993,248,Bus,CityLink6,253.40
+994,248,Train,RailConnect2,123.37
+995,248,Flight,SkyJet Airways3,169.29
+996,248,Cab,QuickRide2,236.39
+997,249,Bus,CityLink0,427.78
+998,249,Train,RailConnect3,236.17
+999,249,Flight,SkyJet Airways3,218.11
+1000,249,Cab,QuickRide9,408.12
+1001,250,Bus,CityLink2,311.15
+1002,250,Train,RailConnect4,492.41
+1003,250,Flight,SkyJet Airways4,282.93
+1004,250,Cab,QuickRide19,410.50
+1005,251,Bus,CityLink0,286.80
+1006,251,Train,RailConnect0,375.18
+1007,251,Flight,SkyJet Airways4,410.72
+1008,251,Cab,QuickRide12,472.75
+1009,252,Bus,CityLink4,453.86
+1010,252,Train,RailConnect0,385.08
+1011,252,Flight,SkyJet Airways0,115.68
+1012,252,Cab,QuickRide6,187.51
+1013,253,Bus,CityLink3,290.69
+1014,253,Train,RailConnect3,129.45
+1015,253,Flight,SkyJet Airways3,154.89
+1016,253,Cab,QuickRide17,264.57
+1017,254,Bus,CityLink1,253.48
+1018,254,Train,RailConnect4,127.51
+1019,254,Flight,SkyJet Airways4,356.32
+1020,254,Cab,QuickRide12,385.13
+1021,255,Bus,CityLink9,397.93
+1022,255,Train,RailConnect2,330.64
+1023,255,Flight,SkyJet Airways4,363.39
+1024,255,Cab,QuickRide15,416.37
+1025,256,Bus,CityLink8,335.14
+1026,256,Train,RailConnect1,335.98
+1027,256,Flight,SkyJet Airways0,165.01
+1028,256,Cab,QuickRide10,344.94
+1029,257,Bus,CityLink3,482.09
+1030,257,Train,RailConnect0,491.83
+1031,257,Flight,SkyJet Airways3,345.35
+1032,257,Cab,QuickRide6,127.47
+1033,258,Bus,CityLink6,367.27
+1034,258,Train,RailConnect0,157.65
+1035,258,Flight,SkyJet Airways3,471.96
+1036,258,Cab,QuickRide4,485.63
+1037,259,Bus,CityLink4,149.85
+1038,259,Train,RailConnect3,247.53
+1039,259,Flight,SkyJet Airways3,111.25
+1040,259,Cab,QuickRide11,499.34
+1041,260,Bus,CityLink7,491.14
+1042,260,Train,RailConnect0,316.84
+1043,260,Flight,SkyJet Airways3,162.52
+1044,260,Cab,QuickRide18,246.81
+1045,261,Bus,CityLink8,225.00
+1046,261,Train,RailConnect2,190.71
+1047,261,Flight,SkyJet Airways2,427.45
+1048,261,Cab,QuickRide19,159.04
+1049,262,Bus,CityLink8,275.80
+1050,262,Train,RailConnect1,241.17
+1051,262,Flight,SkyJet Airways1,210.67
+1052,262,Cab,QuickRide13,436.18
+1053,263,Bus,CityLink4,315.36
+1054,263,Train,RailConnect4,229.08
+1055,263,Flight,SkyJet Airways3,406.25
+1056,263,Cab,QuickRide13,409.81
+1057,264,Bus,CityLink4,435.89
+1058,264,Train,RailConnect3,180.72
+1059,264,Flight,SkyJet Airways4,439.11
+1060,264,Cab,QuickRide14,414.50
+1061,265,Bus,CityLink2,238.93
+1062,265,Train,RailConnect4,392.90
+1063,265,Flight,SkyJet Airways3,413.66
+1064,265,Cab,QuickRide1,215.28
+1065,266,Bus,CityLink4,435.32
+1066,266,Train,RailConnect3,490.68
+1067,266,Flight,SkyJet Airways2,334.73
+1068,266,Cab,QuickRide18,365.23
+1069,267,Bus,CityLink4,432.54
+1070,267,Train,RailConnect4,475.74
+1071,267,Flight,SkyJet Airways1,354.32
+1072,267,Cab,QuickRide12,179.08
+1073,268,Bus,CityLink9,452.31
+1074,268,Train,RailConnect2,469.71
+1075,268,Flight,SkyJet Airways4,283.13
+1076,268,Cab,QuickRide10,429.42
+1077,269,Bus,CityLink5,312.17
+1078,269,Train,RailConnect1,153.37
+1079,269,Flight,SkyJet Airways3,404.87
+1080,269,Cab,QuickRide17,335.47
+1081,270,Bus,CityLink1,386.37
+1082,270,Train,RailConnect0,358.72
+1083,270,Flight,SkyJet Airways0,178.50
+1084,270,Cab,QuickRide13,474.64
+1085,271,Bus,CityLink2,189.67
+1086,271,Train,RailConnect3,115.67
+1087,271,Flight,SkyJet Airways4,243.40
+1088,271,Cab,QuickRide7,361.64
+1089,272,Bus,CityLink4,458.66
+1090,272,Train,RailConnect0,405.41
+1091,272,Flight,SkyJet Airways2,105.29
+1092,272,Cab,QuickRide17,418.37
+1093,273,Bus,CityLink2,336.15
+1094,273,Train,RailConnect1,142.51
+1095,273,Flight,SkyJet Airways2,311.32
+1096,273,Cab,QuickRide11,374.52
+1097,275,Bus,CityLink0,136.11
+1098,275,Train,RailConnect3,407.26
+1099,275,Flight,SkyJet Airways0,108.55
+1100,275,Cab,QuickRide12,116.00
+1101,276,Bus,CityLink7,304.26
+1102,276,Train,RailConnect0,101.22
+1103,276,Flight,SkyJet Airways4,179.81
+1104,276,Cab,QuickRide5,431.91
+1105,277,Bus,CityLink4,275.09
+1106,277,Train,RailConnect1,228.91
+1107,277,Flight,SkyJet Airways0,277.96
+1108,277,Cab,QuickRide6,489.24
+1109,278,Bus,CityLink5,417.60
+1110,278,Train,RailConnect2,170.32
+1111,278,Flight,SkyJet Airways2,397.94
+1112,278,Cab,QuickRide4,319.34
+1113,279,Bus,CityLink2,231.12
+1114,279,Train,RailConnect2,436.73
+1115,279,Flight,SkyJet Airways1,241.38
+1116,279,Cab,QuickRide6,378.73
+1117,280,Bus,CityLink1,240.79
+1118,280,Train,RailConnect4,130.25
+1119,280,Flight,SkyJet Airways1,308.94
+1120,280,Cab,QuickRide8,468.87
+1121,281,Bus,CityLink3,247.44
+1122,281,Train,RailConnect2,271.81
+1123,281,Flight,SkyJet Airways3,118.38
+1124,281,Cab,QuickRide17,406.53
+1125,282,Bus,CityLink6,432.94
+1126,282,Train,RailConnect2,309.21
+1127,282,Flight,SkyJet Airways2,275.36
+1128,282,Cab,QuickRide11,281.07
+1129,283,Bus,CityLink8,353.52
+1130,283,Train,RailConnect3,466.61
+1131,283,Flight,SkyJet Airways4,442.28
+1132,283,Cab,QuickRide15,188.91
+1133,284,Bus,CityLink5,105.13
+1134,284,Train,RailConnect2,178.50
+1135,284,Flight,SkyJet Airways4,239.61
+1136,284,Cab,QuickRide10,180.51
+1137,285,Bus,CityLink0,143.57
+1138,285,Train,RailConnect0,333.92
+1139,285,Flight,SkyJet Airways2,340.18
+1140,285,Cab,QuickRide19,308.65
+1141,286,Bus,CityLink9,285.59
+1142,286,Train,RailConnect0,145.51
+1143,286,Flight,SkyJet Airways4,280.76
+1144,286,Cab,QuickRide4,341.56
+1145,287,Bus,CityLink3,344.56
+1146,287,Train,RailConnect0,468.40
+1147,287,Flight,SkyJet Airways4,189.31
+1148,287,Cab,QuickRide15,154.77
+1149,288,Bus,CityLink3,240.94
+1150,288,Train,RailConnect2,202.47
+1151,288,Flight,SkyJet Airways1,488.15
+1152,288,Cab,QuickRide5,137.78
+1153,289,Bus,CityLink5,389.86
+1154,289,Train,RailConnect1,125.78
+1155,289,Flight,SkyJet Airways4,308.93
+1156,289,Cab,QuickRide16,267.29
+1157,290,Bus,CityLink4,243.85
+1158,290,Train,RailConnect3,148.59
+1159,290,Flight,SkyJet Airways4,216.04
+1160,290,Cab,QuickRide12,393.12
+1161,291,Bus,CityLink5,272.09
+1162,291,Train,RailConnect0,486.74
+1163,291,Flight,SkyJet Airways0,170.12
+1164,291,Cab,QuickRide0,333.02
+1165,292,Bus,CityLink1,267.74
+1166,292,Train,RailConnect4,152.76
+1167,292,Flight,SkyJet Airways4,473.25
+1168,292,Cab,QuickRide17,419.47
+1169,293,Bus,CityLink8,180.97
+1170,293,Train,RailConnect0,280.58
+1171,293,Flight,SkyJet Airways0,301.04
+1172,293,Cab,QuickRide5,182.90
+1173,294,Bus,CityLink0,221.97
+1174,294,Train,RailConnect0,212.38
+1175,294,Flight,SkyJet Airways0,436.36
+1176,294,Cab,QuickRide18,224.33
+1177,295,Bus,CityLink0,125.58
+1178,295,Train,RailConnect2,417.89
+1179,295,Flight,SkyJet Airways4,419.76
+1180,295,Cab,QuickRide0,311.04
+1181,296,Bus,CityLink0,302.06
+1182,296,Train,RailConnect4,428.50
+1183,296,Flight,SkyJet Airways1,491.10
+1184,296,Cab,QuickRide9,205.44
+1185,297,Bus,CityLink5,313.52
+1186,297,Train,RailConnect3,286.01
+1187,297,Flight,SkyJet Airways2,351.92
+1188,297,Cab,QuickRide17,456.75
+1189,298,Bus,CityLink1,150.77
+1190,298,Train,RailConnect0,391.79
+1191,298,Flight,SkyJet Airways4,319.95
+1192,298,Cab,QuickRide2,219.50
+1193,299,Bus,CityLink2,156.29
+1194,299,Train,RailConnect3,413.59
+1195,299,Flight,SkyJet Airways1,361.13
+1196,299,Cab,QuickRide5,490.90
+1197,300,Bus,CityLink9,472.15
+1198,300,Train,RailConnect2,372.07
+1199,300,Flight,SkyJet Airways1,312.78
+1200,300,Cab,QuickRide13,326.85
+1201,301,Bus,CityLink7,197.55
+1202,301,Train,RailConnect0,399.31
+1203,301,Flight,SkyJet Airways0,337.33
+1204,301,Cab,QuickRide10,231.31
+1205,302,Bus,CityLink8,136.36
+1206,302,Train,RailConnect2,393.41
+1207,302,Flight,SkyJet Airways0,231.62
+1208,302,Cab,QuickRide2,414.90
+1209,303,Bus,CityLink0,436.86
+1210,303,Train,RailConnect3,172.30
+1211,303,Flight,SkyJet Airways0,461.60
+1212,303,Cab,QuickRide5,131.39
+1213,304,Bus,CityLink0,353.73
+1214,304,Train,RailConnect2,358.94
+1215,304,Flight,SkyJet Airways3,121.08
+1216,304,Cab,QuickRide12,103.41
+1217,305,Bus,CityLink1,337.39
+1218,305,Train,RailConnect2,439.32
+1219,305,Flight,SkyJet Airways4,199.41
+1220,305,Cab,QuickRide17,391.58
+1221,306,Bus,CityLink2,173.70
+1222,306,Train,RailConnect2,116.15
+1223,306,Flight,SkyJet Airways3,405.89
+1224,306,Cab,QuickRide1,372.46
+1225,307,Bus,CityLink6,257.80
+1226,307,Train,RailConnect1,141.87
+1227,307,Flight,SkyJet Airways1,255.50
+1228,307,Cab,QuickRide13,383.08
+1229,308,Bus,CityLink8,441.51
+1230,308,Train,RailConnect3,387.77
+1231,308,Flight,SkyJet Airways3,102.14
+1232,308,Cab,QuickRide17,432.02
+1233,309,Bus,CityLink2,190.50
+1234,309,Train,RailConnect3,358.85
+1235,309,Flight,SkyJet Airways2,274.00
+1236,309,Cab,QuickRide13,206.34
+1237,310,Bus,CityLink3,247.54
+1238,310,Train,RailConnect0,334.90
+1239,310,Flight,SkyJet Airways2,167.92
+1240,310,Cab,QuickRide5,116.77
+1241,311,Bus,CityLink6,145.32
+1242,311,Train,RailConnect1,335.48
+1243,311,Flight,SkyJet Airways1,184.39
+1244,311,Cab,QuickRide13,476.58
+1245,312,Bus,CityLink1,188.79
+1246,312,Train,RailConnect3,258.52
+1247,312,Flight,SkyJet Airways4,139.92
+1248,312,Cab,QuickRide13,189.39
+1249,313,Bus,CityLink5,418.83
+1250,313,Train,RailConnect3,241.55
+1251,313,Flight,SkyJet Airways0,258.78
+1252,313,Cab,QuickRide9,226.10
+1253,314,Bus,CityLink5,377.72
+1254,314,Train,RailConnect3,440.87
+1255,314,Flight,SkyJet Airways3,259.85
+1256,314,Cab,QuickRide12,107.74
+1257,315,Bus,CityLink1,305.74
+1258,315,Train,RailConnect1,290.97
+1259,315,Flight,SkyJet Airways2,425.01
+1260,315,Cab,QuickRide10,131.42
+1261,316,Bus,CityLink8,391.24
+1262,316,Train,RailConnect4,421.10
+1263,316,Flight,SkyJet Airways1,143.50
+1264,316,Cab,QuickRide15,182.02
+1265,317,Bus,CityLink3,109.83
+1266,317,Train,RailConnect3,408.54
+1267,317,Flight,SkyJet Airways3,437.07
+1268,317,Cab,QuickRide6,103.67
+1269,318,Bus,CityLink2,422.32
+1270,318,Train,RailConnect4,496.34
+1271,318,Flight,SkyJet Airways2,184.60
+1272,318,Cab,QuickRide15,413.58
+1273,319,Bus,CityLink7,144.71
+1274,319,Train,RailConnect1,365.61
+1275,319,Flight,SkyJet Airways4,100.74
+1276,319,Cab,QuickRide14,293.67
+1277,320,Bus,CityLink8,235.97
+1278,320,Train,RailConnect3,484.11
+1279,320,Flight,SkyJet Airways3,210.74
+1280,320,Cab,QuickRide9,114.10
+1281,321,Bus,CityLink8,139.06
+1282,321,Train,RailConnect3,448.34
+1283,321,Flight,SkyJet Airways3,128.36
+1284,321,Cab,QuickRide1,394.60
+1285,322,Bus,CityLink8,154.82
+1286,322,Train,RailConnect1,263.97
+1287,322,Flight,SkyJet Airways4,406.24
+1288,322,Cab,QuickRide3,405.90
+1289,323,Bus,CityLink0,310.33
+1290,323,Train,RailConnect4,306.14
+1291,323,Flight,SkyJet Airways0,321.94
+1292,323,Cab,QuickRide13,281.27
+1293,324,Bus,CityLink2,366.71
+1294,324,Train,RailConnect0,394.47
+1295,324,Flight,SkyJet Airways1,496.75
+1296,324,Cab,QuickRide10,270.14
+1297,325,Bus,CityLink4,437.66
+1298,325,Train,RailConnect2,145.26
+1299,325,Flight,SkyJet Airways0,214.99
+1300,325,Cab,QuickRide6,387.06
+1301,326,Bus,CityLink5,180.47
+1302,326,Train,RailConnect2,321.17
+1303,326,Flight,SkyJet Airways2,220.10
+1304,326,Cab,QuickRide7,351.25
+1305,327,Bus,CityLink7,111.14
+1306,327,Train,RailConnect3,206.11
+1307,327,Flight,SkyJet Airways2,494.81
+1308,327,Cab,QuickRide15,322.58
+1309,328,Bus,CityLink1,310.59
+1310,328,Train,RailConnect3,240.44
+1311,328,Flight,SkyJet Airways4,123.23
+1312,328,Cab,QuickRide10,188.52
+1313,329,Bus,CityLink6,377.09
+1314,329,Train,RailConnect2,113.23
+1315,329,Flight,SkyJet Airways4,130.97
+1316,329,Cab,QuickRide0,477.93
+1317,330,Bus,CityLink8,430.30
+1318,330,Train,RailConnect3,202.60
+1319,330,Flight,SkyJet Airways3,289.31
+1320,330,Cab,QuickRide13,311.38
+1321,331,Bus,CityLink7,336.12
+1322,331,Train,RailConnect2,352.07
+1323,331,Flight,SkyJet Airways4,310.62
+1324,331,Cab,QuickRide17,337.64
+1325,332,Bus,CityLink3,152.66
+1326,332,Train,RailConnect3,163.46
+1327,332,Flight,SkyJet Airways2,160.84
+1328,332,Cab,QuickRide1,243.22
+1329,333,Bus,CityLink8,268.18
+1330,333,Train,RailConnect4,473.05
+1331,333,Flight,SkyJet Airways2,440.67
+1332,333,Cab,QuickRide11,485.05
+1333,334,Bus,CityLink6,454.09
+1334,334,Train,RailConnect4,344.68
+1335,334,Flight,SkyJet Airways2,439.22
+1336,334,Cab,QuickRide12,396.81
+1337,335,Bus,CityLink8,264.53
+1338,335,Train,RailConnect4,130.29
+1339,335,Flight,SkyJet Airways0,165.78
+1340,335,Cab,QuickRide5,224.05
+1341,336,Bus,CityLink7,371.33
+1342,336,Train,RailConnect4,296.94
+1343,336,Flight,SkyJet Airways4,127.09
+1344,336,Cab,QuickRide8,343.95
+1345,337,Bus,CityLink0,205.09
+1346,337,Train,RailConnect0,287.10
+1347,337,Flight,SkyJet Airways2,172.51
+1348,337,Cab,QuickRide9,249.59
+1349,338,Bus,CityLink7,113.85
+1350,338,Train,RailConnect0,186.54
+1351,338,Flight,SkyJet Airways1,430.51
+1352,338,Cab,QuickRide9,352.26
+1353,339,Bus,CityLink5,335.08
+1354,339,Train,RailConnect4,255.54
+1355,339,Flight,SkyJet Airways0,424.30
+1356,339,Cab,QuickRide18,481.37
+1357,340,Bus,CityLink0,462.50
+1358,340,Train,RailConnect3,223.36
+1359,340,Flight,SkyJet Airways3,155.64
+1360,340,Cab,QuickRide7,308.14
+1361,341,Bus,CityLink7,369.44
+1362,341,Train,RailConnect3,304.95
+1363,341,Flight,SkyJet Airways4,117.26
+1364,341,Cab,QuickRide16,166.75
+1365,342,Bus,CityLink9,352.45
+1366,342,Train,RailConnect1,301.71
+1367,342,Flight,SkyJet Airways4,106.72
+1368,342,Cab,QuickRide4,133.73
+1369,343,Bus,CityLink0,447.32
+1370,343,Train,RailConnect3,138.45
+1371,343,Flight,SkyJet Airways1,146.11
+1372,343,Cab,QuickRide13,472.74
+1373,344,Bus,CityLink4,113.33
+1374,344,Train,RailConnect1,309.77
+1375,344,Flight,SkyJet Airways1,409.57
+1376,344,Cab,QuickRide18,319.79
+1377,345,Bus,CityLink8,428.04
+1378,345,Train,RailConnect0,453.30
+1379,345,Flight,SkyJet Airways2,143.16
+1380,345,Cab,QuickRide13,286.44
+1381,346,Bus,CityLink8,487.61
+1382,346,Train,RailConnect1,318.01
+1383,346,Flight,SkyJet Airways2,404.48
+1384,346,Cab,QuickRide9,193.12
+1385,347,Bus,CityLink4,112.15
+1386,347,Train,RailConnect4,231.17
+1387,347,Flight,SkyJet Airways0,373.55
+1388,347,Cab,QuickRide2,366.48
+1389,348,Bus,CityLink7,100.93
+1390,348,Train,RailConnect2,428.23
+1391,348,Flight,SkyJet Airways1,314.12
+1392,348,Cab,QuickRide1,468.19
+1393,349,Bus,CityLink0,248.40
+1394,349,Train,RailConnect0,173.10
+1395,349,Flight,SkyJet Airways4,237.22
+1396,349,Cab,QuickRide14,345.32
+1397,350,Bus,CityLink2,408.90
+1398,350,Train,RailConnect4,131.30
+1399,350,Flight,SkyJet Airways2,248.60
+1400,350,Cab,QuickRide19,298.24
+1401,351,Bus,CityLink4,190.78
+1402,351,Train,RailConnect0,401.43
+1403,351,Flight,SkyJet Airways4,236.86
+1404,351,Cab,QuickRide3,339.20
+1405,352,Bus,CityLink4,235.03
+1406,352,Train,RailConnect1,272.78
+1407,352,Flight,SkyJet Airways1,474.55
+1408,352,Cab,QuickRide18,121.02
+1409,353,Bus,CityLink1,218.16
+1410,353,Train,RailConnect3,127.04
+1411,353,Flight,SkyJet Airways4,227.21
+1412,353,Cab,QuickRide16,285.81
+1413,354,Bus,CityLink5,132.90
+1414,354,Train,RailConnect3,338.87
+1415,354,Flight,SkyJet Airways4,247.88
+1416,354,Cab,QuickRide12,302.23
+1417,355,Bus,CityLink4,295.75
+1418,355,Train,RailConnect3,122.28
+1419,355,Flight,SkyJet Airways0,374.66
+1420,355,Cab,QuickRide12,460.95
+1421,356,Bus,CityLink6,362.64
+1422,356,Train,RailConnect2,472.69
+1423,356,Flight,SkyJet Airways3,225.42
+1424,356,Cab,QuickRide8,305.62
+1425,357,Bus,CityLink6,170.12
+1426,357,Train,RailConnect3,252.44
+1427,357,Flight,SkyJet Airways1,387.68
+1428,357,Cab,QuickRide10,247.32
+1429,358,Bus,CityLink0,199.79
+1430,358,Train,RailConnect0,364.24
+1431,358,Flight,SkyJet Airways0,333.22
+1432,358,Cab,QuickRide13,359.31
+1433,359,Bus,CityLink3,306.68
+1434,359,Train,RailConnect3,186.78
+1435,359,Flight,SkyJet Airways2,105.26
+1436,359,Cab,QuickRide12,195.14
+1437,360,Bus,CityLink3,134.44
+1438,360,Train,RailConnect2,241.51
+1439,360,Flight,SkyJet Airways1,253.79
+1440,360,Cab,QuickRide4,192.54
+1441,361,Bus,CityLink2,472.06
+1442,361,Train,RailConnect4,223.13
+1443,361,Flight,SkyJet Airways0,150.55
+1444,361,Cab,QuickRide3,362.68
+1445,362,Bus,CityLink4,183.56
+1446,362,Train,RailConnect1,256.89
+1447,362,Flight,SkyJet Airways4,121.55
+1448,362,Cab,QuickRide15,457.15
+1449,363,Bus,CityLink2,217.69
+1450,363,Train,RailConnect0,290.88
+1451,363,Flight,SkyJet Airways1,390.87
+1452,363,Cab,QuickRide3,358.15
+1453,364,Bus,CityLink2,328.47
+1454,364,Train,RailConnect2,136.06
+1455,364,Flight,SkyJet Airways3,306.44
+1456,364,Cab,QuickRide2,198.03
+1457,365,Bus,CityLink3,187.96
+1458,365,Train,RailConnect4,317.59
+1459,365,Flight,SkyJet Airways3,102.39
+1460,365,Cab,QuickRide9,477.13
+1461,366,Bus,CityLink2,268.09
+1462,366,Train,RailConnect4,219.55
+1463,366,Flight,SkyJet Airways4,178.97
+1464,366,Cab,QuickRide2,103.06
+1465,367,Bus,CityLink8,481.13
+1466,367,Train,RailConnect1,248.07
+1467,367,Flight,SkyJet Airways2,485.92
+1468,367,Cab,QuickRide1,332.81
+1469,368,Bus,CityLink9,351.81
+1470,368,Train,RailConnect1,262.93
+1471,368,Flight,SkyJet Airways4,279.42
+1472,368,Cab,QuickRide4,248.48
+1473,369,Bus,CityLink1,178.17
+1474,369,Train,RailConnect4,320.35
+1475,369,Flight,SkyJet Airways2,405.37
+1476,369,Cab,QuickRide6,362.60
+1477,370,Bus,CityLink9,332.93
+1478,370,Train,RailConnect4,463.07
+1479,370,Flight,SkyJet Airways0,275.80
+1480,370,Cab,QuickRide15,285.36
+1481,371,Bus,CityLink9,379.87
+1482,371,Train,RailConnect1,300.94
+1483,371,Flight,SkyJet Airways2,416.03
+1484,371,Cab,QuickRide10,347.43
+1485,372,Bus,CityLink4,397.02
+1486,372,Train,RailConnect2,155.43
+1487,372,Flight,SkyJet Airways3,334.86
+1488,372,Cab,QuickRide3,426.45
+1489,373,Bus,CityLink7,451.77
+1490,373,Train,RailConnect2,178.46
+1491,373,Flight,SkyJet Airways2,124.53
+1492,373,Cab,QuickRide13,351.01
+1493,374,Bus,CityLink3,131.86
+1494,374,Train,RailConnect3,210.32
+1495,374,Flight,SkyJet Airways0,485.56
+1496,374,Cab,QuickRide3,215.32
+1497,375,Bus,CityLink6,411.41
+1498,375,Train,RailConnect2,196.50
+1499,375,Flight,SkyJet Airways2,308.01
+1500,375,Cab,QuickRide18,208.24
+1501,376,Bus,CityLink9,416.13
+1502,376,Train,RailConnect1,165.60
+1503,376,Flight,SkyJet Airways1,454.36
+1504,376,Cab,QuickRide0,385.19
+1505,377,Bus,CityLink0,204.01
+1506,377,Train,RailConnect0,227.95
+1507,377,Flight,SkyJet Airways1,260.36
+1508,377,Cab,QuickRide14,386.93
+1509,378,Bus,CityLink9,354.44
+1510,378,Train,RailConnect2,277.10
+1511,378,Flight,SkyJet Airways0,300.68
+1512,378,Cab,QuickRide10,349.22
+1513,379,Bus,CityLink0,149.19
+1514,379,Train,RailConnect3,140.67
+1515,379,Flight,SkyJet Airways4,416.69
+1516,379,Cab,QuickRide14,461.78
+1517,380,Bus,CityLink8,467.04
+1518,380,Train,RailConnect1,299.22
+1519,380,Flight,SkyJet Airways3,174.86
+1520,380,Cab,QuickRide4,144.72
+1521,381,Bus,CityLink4,488.40
+1522,381,Train,RailConnect1,482.73
+1523,381,Flight,SkyJet Airways4,217.67
+1524,381,Cab,QuickRide14,162.56
+1525,382,Bus,CityLink6,431.65
+1526,382,Train,RailConnect0,334.51
+1527,382,Flight,SkyJet Airways2,367.04
+1528,382,Cab,QuickRide6,453.38
+1529,383,Bus,CityLink6,401.73
+1530,383,Train,RailConnect0,317.96
+1531,383,Flight,SkyJet Airways4,410.90
+1532,383,Cab,QuickRide8,112.43
+1533,384,Bus,CityLink5,384.17
+1534,384,Train,RailConnect0,497.49
+1535,384,Flight,SkyJet Airways4,165.16
+1536,384,Cab,QuickRide19,393.46
+1537,385,Bus,CityLink0,437.94
+1538,385,Train,RailConnect1,259.13
+1539,385,Flight,SkyJet Airways2,449.06
+1540,385,Cab,QuickRide1,444.22
+1541,386,Bus,CityLink0,320.85
+1542,386,Train,RailConnect0,446.98
+1543,386,Flight,SkyJet Airways2,420.08
+1544,386,Cab,QuickRide2,142.12
+1545,387,Bus,CityLink1,242.46
+1546,387,Train,RailConnect1,273.21
+1547,387,Flight,SkyJet Airways0,101.43
+1548,387,Cab,QuickRide17,209.34
+1549,388,Bus,CityLink3,108.89
+1550,388,Train,RailConnect0,395.48
+1551,388,Flight,SkyJet Airways4,110.42
+1552,388,Cab,QuickRide1,326.01
+1553,389,Bus,CityLink5,128.90
+1554,389,Train,RailConnect4,197.49
+1555,389,Flight,SkyJet Airways3,257.47
+1556,389,Cab,QuickRide9,425.81
+1557,390,Bus,CityLink7,156.30
+1558,390,Train,RailConnect4,482.38
+1559,390,Flight,SkyJet Airways3,403.95
+1560,390,Cab,QuickRide2,314.68
+1561,391,Bus,CityLink0,362.70
+1562,391,Train,RailConnect0,186.57
+1563,391,Flight,SkyJet Airways0,415.25
+1564,391,Cab,QuickRide1,447.25
+1565,392,Bus,CityLink0,104.10
+1566,392,Train,RailConnect2,454.10
+1567,392,Flight,SkyJet Airways3,313.30
+1568,392,Cab,QuickRide0,379.83
+1569,393,Bus,CityLink5,111.66
+1570,393,Train,RailConnect1,196.42
+1571,393,Flight,SkyJet Airways4,365.94
+1572,393,Cab,QuickRide10,327.64
+1573,394,Bus,CityLink2,279.58
+1574,394,Train,RailConnect2,314.73
+1575,394,Flight,SkyJet Airways2,213.46
+1576,394,Cab,QuickRide11,164.63
+1577,395,Bus,CityLink0,298.05
+1578,395,Train,RailConnect1,379.64
+1579,395,Flight,SkyJet Airways2,146.85
+1580,395,Cab,QuickRide6,472.00
+1581,396,Bus,CityLink8,416.02
+1582,396,Train,RailConnect0,360.77
+1583,396,Flight,SkyJet Airways3,436.86
+1584,396,Cab,QuickRide2,320.19
+1585,397,Bus,CityLink7,440.45
+1586,397,Train,RailConnect1,420.83
+1587,397,Flight,SkyJet Airways1,420.43
+1588,397,Cab,QuickRide6,286.89
+1589,398,Bus,CityLink5,298.21
+1590,398,Train,RailConnect2,498.32
+1591,398,Flight,SkyJet Airways1,302.17
+1592,398,Cab,QuickRide9,315.76
+1593,399,Bus,CityLink5,311.55
+1594,399,Train,RailConnect4,366.44
+1595,399,Flight,SkyJet Airways3,323.77
+1596,399,Cab,QuickRide14,469.86
+1597,400,Bus,CityLink0,427.44
+1598,400,Train,RailConnect1,226.06
+1599,400,Flight,SkyJet Airways2,229.09
+1600,400,Cab,QuickRide3,464.58
+1601,401,Bus,CityLink4,332.90
+1602,401,Train,RailConnect1,215.08
+1603,401,Flight,SkyJet Airways4,184.61
+1604,401,Cab,QuickRide0,256.33
+1605,402,Bus,CityLink1,219.34
+1606,402,Train,RailConnect2,292.17
+1607,402,Flight,SkyJet Airways3,243.36
+1608,402,Cab,QuickRide0,337.68
+1609,403,Bus,CityLink1,462.13
+1610,403,Train,RailConnect2,271.28
+1611,403,Flight,SkyJet Airways0,389.55
+1612,403,Cab,QuickRide13,235.96
+1613,404,Bus,CityLink0,364.70
+1614,404,Train,RailConnect0,496.90
+1615,404,Flight,SkyJet Airways4,275.48
+1616,404,Cab,QuickRide18,417.55
+1617,405,Bus,CityLink0,193.89
+1618,405,Train,RailConnect0,302.82
+1619,405,Flight,SkyJet Airways2,446.26
+1620,405,Cab,QuickRide14,407.34
+1621,406,Bus,CityLink8,236.32
+1622,406,Train,RailConnect2,188.53
+1623,406,Flight,SkyJet Airways3,309.31
+1624,406,Cab,QuickRide1,242.29
+1625,407,Bus,CityLink3,363.26
+1626,407,Train,RailConnect4,132.42
+1627,407,Flight,SkyJet Airways4,434.40
+1628,407,Cab,QuickRide2,366.11
+1629,408,Bus,CityLink1,399.59
+1630,408,Train,RailConnect4,431.23
+1631,408,Flight,SkyJet Airways4,202.84
+1632,408,Cab,QuickRide6,238.78
+1633,409,Bus,CityLink3,287.49
+1634,409,Train,RailConnect0,238.39
+1635,409,Flight,SkyJet Airways3,193.20
+1636,409,Cab,QuickRide11,190.90
+1637,410,Bus,CityLink4,263.64
+1638,410,Train,RailConnect0,427.35
+1639,410,Flight,SkyJet Airways3,395.85
+1640,410,Cab,QuickRide17,136.61
+1641,411,Bus,CityLink9,315.55
+1642,411,Train,RailConnect4,336.00
+1643,411,Flight,SkyJet Airways0,311.08
+1644,411,Cab,QuickRide7,112.77
+1645,412,Bus,CityLink7,448.83
+1646,412,Train,RailConnect2,415.08
+1647,412,Flight,SkyJet Airways1,385.87
+1648,412,Cab,QuickRide16,287.76
+1649,413,Bus,CityLink8,228.64
+1650,413,Train,RailConnect4,370.87
+1651,413,Flight,SkyJet Airways1,133.29
+1652,413,Cab,QuickRide19,131.03
+1653,414,Bus,CityLink6,338.72
+1654,414,Train,RailConnect4,400.47
+1655,414,Flight,SkyJet Airways3,470.74
+1656,414,Cab,QuickRide13,144.78
+1657,415,Bus,CityLink1,474.29
+1658,415,Train,RailConnect4,485.19
+1659,415,Flight,SkyJet Airways0,324.58
+1660,415,Cab,QuickRide2,121.58
+1661,416,Bus,CityLink0,343.06
+1662,416,Train,RailConnect0,438.74
+1663,416,Flight,SkyJet Airways4,285.27
+1664,416,Cab,QuickRide9,115.35
+1665,417,Bus,CityLink8,203.65
+1666,417,Train,RailConnect3,395.16
+1667,417,Flight,SkyJet Airways1,190.91
+1668,417,Cab,QuickRide16,302.98
+1669,418,Bus,CityLink8,188.33
+1670,418,Train,RailConnect0,350.62
+1671,418,Flight,SkyJet Airways0,108.91
+1672,418,Cab,QuickRide16,268.53
+1673,419,Bus,CityLink0,366.21
+1674,419,Train,RailConnect2,365.30
+1675,419,Flight,SkyJet Airways1,100.05
+1676,419,Cab,QuickRide4,261.18
+1677,420,Bus,CityLink3,338.03
+1678,420,Train,RailConnect4,215.19
+1679,420,Flight,SkyJet Airways2,460.22
+1680,420,Cab,QuickRide14,179.42
+1681,421,Bus,CityLink7,204.48
+1682,421,Train,RailConnect3,183.37
+1683,421,Flight,SkyJet Airways2,462.38
+1684,421,Cab,QuickRide11,251.27
+1685,422,Bus,CityLink4,428.72
+1686,422,Train,RailConnect2,476.28
+1687,422,Flight,SkyJet Airways0,421.72
+1688,422,Cab,QuickRide9,400.74
+1689,423,Bus,CityLink3,399.67
+1690,423,Train,RailConnect2,310.21
+1691,423,Flight,SkyJet Airways3,199.49
+1692,423,Cab,QuickRide2,166.54
+1693,424,Bus,CityLink5,149.84
+1694,424,Train,RailConnect3,486.91
+1695,424,Flight,SkyJet Airways0,309.70
+1696,424,Cab,QuickRide13,494.83
+1697,425,Bus,CityLink5,265.09
+1698,425,Train,RailConnect4,329.34
+1699,425,Flight,SkyJet Airways0,103.69
+1700,425,Cab,QuickRide18,419.31
+1701,426,Bus,CityLink2,128.21
+1702,426,Train,RailConnect1,153.54
+1703,426,Flight,SkyJet Airways0,418.00
+1704,426,Cab,QuickRide6,469.04
+1705,427,Bus,CityLink2,314.52
+1706,427,Train,RailConnect2,355.62
+1707,427,Flight,SkyJet Airways2,259.30
+1708,427,Cab,QuickRide15,395.49
+1709,428,Bus,CityLink2,277.22
+1710,428,Train,RailConnect3,415.26
+1711,428,Flight,SkyJet Airways0,209.21
+1712,428,Cab,QuickRide0,371.64
+1713,429,Bus,CityLink2,202.67
+1714,429,Train,RailConnect2,100.68
+1715,429,Flight,SkyJet Airways3,397.16
+1716,429,Cab,QuickRide8,249.92
+1717,430,Bus,CityLink4,134.85
+1718,430,Train,RailConnect3,198.45
+1719,430,Flight,SkyJet Airways2,270.59
+1720,430,Cab,QuickRide3,423.88
+1721,431,Bus,CityLink2,182.28
+1722,431,Train,RailConnect2,206.01
+1723,431,Flight,SkyJet Airways4,429.92
+1724,431,Cab,QuickRide1,107.02
+1725,432,Bus,CityLink1,403.76
+1726,432,Train,RailConnect4,480.33
+1727,432,Flight,SkyJet Airways3,244.13
+1728,432,Cab,QuickRide12,390.04
+1729,433,Bus,CityLink9,484.68
+1730,433,Train,RailConnect2,304.82
+1731,433,Flight,SkyJet Airways3,266.15
+1732,433,Cab,QuickRide2,462.06
+1733,434,Bus,CityLink8,283.50
+1734,434,Train,RailConnect1,468.93
+1735,434,Flight,SkyJet Airways4,118.05
+1736,434,Cab,QuickRide15,314.75
+1737,435,Bus,CityLink6,252.86
+1738,435,Train,RailConnect4,441.45
+1739,435,Flight,SkyJet Airways2,201.15
+1740,435,Cab,QuickRide16,216.61
+1741,436,Bus,CityLink9,306.88
+1742,436,Train,RailConnect2,403.87
+1743,436,Flight,SkyJet Airways0,187.18
+1744,436,Cab,QuickRide4,248.38
+1745,437,Bus,CityLink4,246.49
+1746,437,Train,RailConnect4,290.89
+1747,437,Flight,SkyJet Airways1,428.65
+1748,437,Cab,QuickRide12,309.10
+1749,438,Bus,CityLink4,258.31
+1750,438,Train,RailConnect4,239.76
+1751,438,Flight,SkyJet Airways2,342.27
+1752,438,Cab,QuickRide0,273.81
+1753,439,Bus,CityLink6,155.68
+1754,439,Train,RailConnect4,374.72
+1755,439,Flight,SkyJet Airways0,136.84
+1756,439,Cab,QuickRide1,331.13
+1757,440,Bus,CityLink2,399.63
+1758,440,Train,RailConnect2,316.68
+1759,440,Flight,SkyJet Airways4,237.30
+1760,440,Cab,QuickRide14,291.74
+1761,441,Bus,CityLink4,227.59
+1762,441,Train,RailConnect4,401.23
+1763,441,Flight,SkyJet Airways1,151.29
+1764,441,Cab,QuickRide18,143.71
+1765,442,Bus,CityLink7,128.81
+1766,442,Train,RailConnect4,421.35
+1767,442,Flight,SkyJet Airways2,473.65
+1768,442,Cab,QuickRide6,495.05
+1769,443,Bus,CityLink5,451.38
+1770,443,Train,RailConnect1,471.25
+1771,443,Flight,SkyJet Airways3,288.17
+1772,443,Cab,QuickRide0,207.07
+1773,444,Bus,CityLink2,251.71
+1774,444,Train,RailConnect3,340.74
+1775,444,Flight,SkyJet Airways3,366.16
+1776,444,Cab,QuickRide7,355.47
+1777,445,Bus,CityLink1,302.56
+1778,445,Train,RailConnect3,248.64
+1779,445,Flight,SkyJet Airways0,444.77
+1780,445,Cab,QuickRide19,434.17
+1781,446,Bus,CityLink2,382.05
+1782,446,Train,RailConnect2,241.47
+1783,446,Flight,SkyJet Airways2,350.66
+1784,446,Cab,QuickRide1,310.18
+1785,447,Bus,CityLink2,164.62
+1786,447,Train,RailConnect0,451.45
+1787,447,Flight,SkyJet Airways1,341.65
+1788,447,Cab,QuickRide3,154.60
+1789,448,Bus,CityLink0,180.43
+1790,448,Train,RailConnect3,489.52
+1791,448,Flight,SkyJet Airways1,386.61
+1792,448,Cab,QuickRide13,115.54
+1793,449,Bus,CityLink9,276.27
+1794,449,Train,RailConnect0,140.63
+1795,449,Flight,SkyJet Airways4,108.27
+1796,449,Cab,QuickRide1,127.91
+1797,450,Bus,CityLink1,232.63
+1798,450,Train,RailConnect0,400.67
+1799,450,Flight,SkyJet Airways1,113.73
+1800,450,Cab,QuickRide4,273.56
+1801,451,Bus,CityLink8,112.13
+1802,451,Train,RailConnect3,319.73
+1803,451,Flight,SkyJet Airways3,460.72
+1804,451,Cab,QuickRide11,260.17
+1805,452,Bus,CityLink6,276.94
+1806,452,Train,RailConnect1,363.90
+1807,452,Flight,SkyJet Airways0,402.94
+1808,452,Cab,QuickRide8,324.79
+1809,453,Bus,CityLink4,485.65
+1810,453,Train,RailConnect3,259.71
+1811,453,Flight,SkyJet Airways3,335.11
+1812,453,Cab,QuickRide2,465.37
+1813,454,Bus,CityLink0,392.67
+1814,454,Train,RailConnect1,185.53
+1815,454,Flight,SkyJet Airways0,315.46
+1816,454,Cab,QuickRide10,265.56
+1817,455,Bus,CityLink0,298.14
+1818,455,Train,RailConnect2,426.37
+1819,455,Flight,SkyJet Airways2,194.02
+1820,455,Cab,QuickRide4,351.70
+1821,456,Bus,CityLink4,198.18
+1822,456,Train,RailConnect1,230.66
+1823,456,Flight,SkyJet Airways3,342.02
+1824,456,Cab,QuickRide1,472.75
+1825,457,Bus,CityLink6,290.11
+1826,457,Train,RailConnect0,185.77
+1827,457,Flight,SkyJet Airways3,456.97
+1828,457,Cab,QuickRide4,330.92
+1829,458,Bus,CityLink0,406.47
+1830,458,Train,RailConnect0,164.59
+1831,458,Flight,SkyJet Airways1,158.20
+1832,458,Cab,QuickRide0,189.79
+1833,459,Bus,CityLink9,354.15
+1834,459,Train,RailConnect4,307.78
+1835,459,Flight,SkyJet Airways1,289.34
+1836,459,Cab,QuickRide1,365.62
+1837,460,Bus,CityLink1,233.65
+1838,460,Train,RailConnect1,197.97
+1839,460,Flight,SkyJet Airways1,395.97
+1840,460,Cab,QuickRide16,471.59
+1841,461,Bus,CityLink8,352.60
+1842,461,Train,RailConnect1,463.43
+1843,461,Flight,SkyJet Airways3,455.16
+1844,461,Cab,QuickRide18,319.93
+1845,462,Bus,CityLink5,301.89
+1846,462,Train,RailConnect0,189.17
+1847,462,Flight,SkyJet Airways0,166.20
+1848,462,Cab,QuickRide19,319.68
+1849,463,Bus,CityLink4,394.59
+1850,463,Train,RailConnect1,362.23
+1851,463,Flight,SkyJet Airways0,441.14
+1852,463,Cab,QuickRide1,172.09
+1853,464,Bus,CityLink5,233.84
+1854,464,Train,RailConnect0,488.52
+1855,464,Flight,SkyJet Airways3,120.43
+1856,464,Cab,QuickRide13,450.39
+1857,465,Bus,CityLink3,435.28
+1858,465,Train,RailConnect1,488.56
+1859,465,Flight,SkyJet Airways0,487.57
+1860,465,Cab,QuickRide18,256.84
+1861,466,Bus,CityLink2,402.68
+1862,466,Train,RailConnect2,413.65
+1863,466,Flight,SkyJet Airways2,143.51
+1864,466,Cab,QuickRide4,405.69
+1865,467,Bus,CityLink9,182.58
+1866,467,Train,RailConnect3,367.51
+1867,467,Flight,SkyJet Airways3,343.03
+1868,467,Cab,QuickRide13,115.85
+1869,468,Bus,CityLink1,150.11
+1870,468,Train,RailConnect0,191.95
+1871,468,Flight,SkyJet Airways4,312.08
+1872,468,Cab,QuickRide16,151.52
+1873,469,Bus,CityLink8,294.97
+1874,469,Train,RailConnect2,464.27
+1875,469,Flight,SkyJet Airways3,368.96
+1876,469,Cab,QuickRide2,279.12
+1877,470,Bus,CityLink3,105.30
+1878,470,Train,RailConnect0,322.32
+1879,470,Flight,SkyJet Airways4,235.75
+1880,470,Cab,QuickRide5,455.21
+1881,471,Bus,CityLink7,304.13
+1882,471,Train,RailConnect3,166.78
+1883,471,Flight,SkyJet Airways1,161.38
+1884,471,Cab,QuickRide16,160.90
+1885,472,Bus,CityLink3,340.19
+1886,472,Train,RailConnect4,445.45
+1887,472,Flight,SkyJet Airways3,324.29
+1888,472,Cab,QuickRide8,461.64
+1889,473,Bus,CityLink3,217.35
+1890,473,Train,RailConnect1,141.77
+1891,473,Flight,SkyJet Airways2,205.13
+1892,473,Cab,QuickRide13,134.59
+1893,474,Bus,CityLink0,103.88
+1894,474,Train,RailConnect3,241.47
+1895,474,Flight,SkyJet Airways0,319.48
+1896,474,Cab,QuickRide3,356.94
+1897,475,Bus,CityLink1,483.53
+1898,475,Train,RailConnect4,476.15
+1899,475,Flight,SkyJet Airways1,188.59
+1900,475,Cab,QuickRide8,442.14
+1901,476,Bus,CityLink2,360.02
+1902,476,Train,RailConnect4,109.27
+1903,476,Flight,SkyJet Airways0,284.99
+1904,476,Cab,QuickRide12,475.96
+1905,477,Bus,CityLink2,362.14
+1906,477,Train,RailConnect2,187.09
+1907,477,Flight,SkyJet Airways2,480.24
+1908,477,Cab,QuickRide10,157.53
+1909,478,Bus,CityLink6,100.23
+1910,478,Train,RailConnect3,131.26
+1911,478,Flight,SkyJet Airways1,370.82
+1912,478,Cab,QuickRide17,186.50
+1913,479,Bus,CityLink5,465.59
+1914,479,Train,RailConnect0,159.80
+1915,479,Flight,SkyJet Airways0,168.98
+1916,479,Cab,QuickRide9,158.82
+1917,480,Bus,CityLink4,204.96
+1918,480,Train,RailConnect0,165.75
+1919,480,Flight,SkyJet Airways2,322.78
+1920,480,Cab,QuickRide8,105.12
+1921,481,Bus,CityLink2,208.22
+1922,481,Train,RailConnect4,416.30
+1923,481,Flight,SkyJet Airways2,110.76
+1924,481,Cab,QuickRide18,162.14
+1925,482,Bus,CityLink9,110.25
+1926,482,Train,RailConnect0,330.85
+1927,482,Flight,SkyJet Airways0,253.79
+1928,482,Cab,QuickRide15,448.03
+1929,483,Bus,CityLink8,452.21
+1930,483,Train,RailConnect0,260.42
+1931,483,Flight,SkyJet Airways4,234.44
+1932,483,Cab,QuickRide3,437.59
+1933,484,Bus,CityLink4,316.34
+1934,484,Train,RailConnect4,210.84
+1935,484,Flight,SkyJet Airways3,228.42
+1936,484,Cab,QuickRide4,269.03
+1937,485,Bus,CityLink6,448.82
+1938,485,Train,RailConnect1,293.79
+1939,485,Flight,SkyJet Airways1,196.21
+1940,485,Cab,QuickRide2,151.00
+1941,486,Bus,CityLink7,234.13
+1942,486,Train,RailConnect4,430.11
+1943,486,Flight,SkyJet Airways4,253.20
+1944,486,Cab,QuickRide2,308.22
+1945,487,Bus,CityLink0,474.20
+1946,487,Train,RailConnect1,158.56
+1947,487,Flight,SkyJet Airways4,171.22
+1948,487,Cab,QuickRide13,405.42
+1949,488,Bus,CityLink0,392.30
+1950,488,Train,RailConnect1,160.95
+1951,488,Flight,SkyJet Airways1,239.51
+1952,488,Cab,QuickRide14,492.36
+1953,489,Bus,CityLink9,303.04
+1954,489,Train,RailConnect0,342.07
+1955,489,Flight,SkyJet Airways2,405.67
+1956,489,Cab,QuickRide1,242.72
+1957,490,Bus,CityLink5,222.25
+1958,490,Train,RailConnect1,467.11
+1959,490,Flight,SkyJet Airways0,201.01
+1960,490,Cab,QuickRide5,284.61
+1961,491,Bus,CityLink6,469.10
+1962,491,Train,RailConnect3,497.40
+1963,491,Flight,SkyJet Airways0,211.12
+1964,491,Cab,QuickRide0,200.88
+1965,492,Bus,CityLink8,301.01
+1966,492,Train,RailConnect1,215.80
+1967,492,Flight,SkyJet Airways1,399.63
+1968,492,Cab,QuickRide9,341.14
+1969,493,Bus,CityLink4,349.35
+1970,493,Train,RailConnect1,338.91
+1971,493,Flight,SkyJet Airways0,486.27
+1972,493,Cab,QuickRide0,458.89
+1973,494,Bus,CityLink4,451.79
+1974,494,Train,RailConnect0,320.64
+1975,494,Flight,SkyJet Airways4,159.33
+1976,494,Cab,QuickRide3,146.63
+1977,495,Bus,CityLink6,439.08
+1978,495,Train,RailConnect1,364.26
+1979,495,Flight,SkyJet Airways1,469.72
+1980,495,Cab,QuickRide15,120.61
+1981,496,Bus,CityLink7,474.03
+1982,496,Train,RailConnect0,307.88
+1983,496,Flight,SkyJet Airways1,345.90
+1984,496,Cab,QuickRide3,204.91
+1985,497,Bus,CityLink2,178.83
+1986,497,Train,RailConnect1,478.40
+1987,497,Flight,SkyJet Airways3,201.30
+1988,497,Cab,QuickRide2,379.90
+1989,498,Bus,CityLink3,177.02
+1990,498,Train,RailConnect0,350.79
+1991,498,Flight,SkyJet Airways1,388.47
+1992,498,Cab,QuickRide8,191.38
+1993,499,Bus,CityLink1,432.05
+1994,499,Train,RailConnect4,424.69
+1995,499,Flight,SkyJet Airways0,203.11
+1996,499,Cab,QuickRide16,255.47
+1997,500,Bus,CityLink3,498.47
+1998,500,Train,RailConnect2,191.07
+1999,500,Flight,SkyJet Airways3,101.36
+2000,500,Cab,QuickRide9,148.88
+2001,501,Bus,CityLink5,482.55
+2002,501,Train,RailConnect2,370.67
+2003,501,Flight,SkyJet Airways4,242.36
+2004,501,Cab,QuickRide5,375.56
+2005,502,Bus,CityLink5,177.30
+2006,502,Train,RailConnect1,365.25
+2007,502,Flight,SkyJet Airways4,145.90
+2008,502,Cab,QuickRide1,224.09
+2009,503,Bus,CityLink8,340.76
+2010,503,Train,RailConnect0,339.24
+2011,503,Flight,SkyJet Airways1,127.02
+2012,503,Cab,QuickRide11,312.66
+2013,504,Bus,CityLink0,402.16
+2014,504,Train,RailConnect2,416.70
+2015,504,Flight,SkyJet Airways0,140.38
+2016,504,Cab,QuickRide2,469.26
+2017,505,Bus,CityLink1,377.18
+2018,505,Train,RailConnect1,399.21
+2019,505,Flight,SkyJet Airways2,130.62
+2020,505,Cab,QuickRide7,418.75
+2021,506,Bus,CityLink2,435.62
+2022,506,Train,RailConnect3,336.12
+2023,506,Flight,SkyJet Airways1,344.39
+2024,506,Cab,QuickRide7,463.64
+2025,507,Bus,CityLink7,152.11
+2026,507,Train,RailConnect3,381.32
+2027,507,Flight,SkyJet Airways0,306.62
+2028,507,Cab,QuickRide18,155.61
+2029,508,Bus,CityLink2,444.55
+2030,508,Train,RailConnect3,411.29
+2031,508,Flight,SkyJet Airways3,378.91
+2032,508,Cab,QuickRide0,176.03
+2033,509,Bus,CityLink4,114.23
+2034,509,Train,RailConnect4,419.11
+2035,509,Flight,SkyJet Airways4,433.03
+2036,509,Cab,QuickRide3,400.74
+2037,510,Bus,CityLink1,492.86
+2038,510,Train,RailConnect3,154.61
+2039,510,Flight,SkyJet Airways3,311.93
+2040,510,Cab,QuickRide12,398.24
+2041,511,Bus,CityLink1,342.90
+2042,511,Train,RailConnect1,254.57
+2043,511,Flight,SkyJet Airways4,491.57
+2044,511,Cab,QuickRide13,489.89
+2045,512,Bus,CityLink9,490.05
+2046,512,Train,RailConnect3,485.83
+2047,512,Flight,SkyJet Airways1,462.47
+2048,512,Cab,QuickRide10,203.52
+2049,513,Bus,CityLink9,388.14
+2050,513,Train,RailConnect3,448.62
+2051,513,Flight,SkyJet Airways3,420.74
+2052,513,Cab,QuickRide1,340.97
+2053,514,Bus,CityLink2,342.53
+2054,514,Train,RailConnect0,389.17
+2055,514,Flight,SkyJet Airways2,474.83
+2056,514,Cab,QuickRide3,149.04
+2057,515,Bus,CityLink6,490.37
+2058,515,Train,RailConnect2,144.46
+2059,515,Flight,SkyJet Airways0,406.63
+2060,515,Cab,QuickRide7,257.69
+2061,516,Bus,CityLink1,465.69
+2062,516,Train,RailConnect0,344.49
+2063,516,Flight,SkyJet Airways3,202.12
+2064,516,Cab,QuickRide19,187.58
+2065,517,Bus,CityLink6,220.46
+2066,517,Train,RailConnect2,478.10
+2067,517,Flight,SkyJet Airways1,495.29
+2068,517,Cab,QuickRide18,138.27
+2069,518,Bus,CityLink4,267.31
+2070,518,Train,RailConnect3,163.86
+2071,518,Flight,SkyJet Airways2,129.27
+2072,518,Cab,QuickRide5,193.26
+2073,519,Bus,CityLink3,448.83
+2074,519,Train,RailConnect0,309.60
+2075,519,Flight,SkyJet Airways0,274.46
+2076,519,Cab,QuickRide0,239.22
+2077,520,Bus,CityLink9,166.71
+2078,520,Train,RailConnect4,255.10
+2079,520,Flight,SkyJet Airways3,255.54
+2080,520,Cab,QuickRide2,212.60
+2081,521,Bus,CityLink1,313.57
+2082,521,Train,RailConnect0,129.01
+2083,521,Flight,SkyJet Airways3,476.24
+2084,521,Cab,QuickRide19,479.24
+2085,522,Bus,CityLink7,466.02
+2086,522,Train,RailConnect0,135.28
+2087,522,Flight,SkyJet Airways2,407.35
+2088,522,Cab,QuickRide3,333.55
+2089,523,Bus,CityLink7,303.34
+2090,523,Train,RailConnect2,245.13
+2091,523,Flight,SkyJet Airways1,308.37
+2092,523,Cab,QuickRide10,258.20
+2093,524,Bus,CityLink8,220.92
+2094,524,Train,RailConnect0,369.52
+2095,524,Flight,SkyJet Airways4,250.20
+2096,524,Cab,QuickRide9,368.37
+2097,525,Bus,CityLink6,348.60
+2098,525,Train,RailConnect4,240.96
+2099,525,Flight,SkyJet Airways3,229.54
+2100,525,Cab,QuickRide5,278.91
+2101,526,Bus,CityLink0,108.15
+2102,526,Train,RailConnect1,271.18
+2103,526,Flight,SkyJet Airways0,341.91
+2104,526,Cab,QuickRide18,162.22
+2105,527,Bus,CityLink1,444.65
+2106,527,Train,RailConnect0,460.66
+2107,527,Flight,SkyJet Airways0,472.81
+2108,527,Cab,QuickRide10,160.15
+2109,528,Bus,CityLink2,169.96
+2110,528,Train,RailConnect3,201.96
+2111,528,Flight,SkyJet Airways0,311.40
+2112,528,Cab,QuickRide2,437.28
+2113,529,Bus,CityLink4,338.07
+2114,529,Train,RailConnect4,489.21
+2115,529,Flight,SkyJet Airways3,184.35
+2116,529,Cab,QuickRide7,411.08
+2117,530,Bus,CityLink8,499.28
+2118,530,Train,RailConnect3,121.46
+2119,530,Flight,SkyJet Airways1,342.66
+2120,530,Cab,QuickRide0,186.75
+2121,531,Bus,CityLink2,165.10
+2122,531,Train,RailConnect3,263.31
+2123,531,Flight,SkyJet Airways2,140.53
+2124,531,Cab,QuickRide0,147.68
+2125,532,Bus,CityLink1,420.28
+2126,532,Train,RailConnect0,195.23
+2127,532,Flight,SkyJet Airways4,214.32
+2128,532,Cab,QuickRide0,408.15
+2129,533,Bus,CityLink8,457.46
+2130,533,Train,RailConnect1,274.91
+2131,533,Flight,SkyJet Airways0,397.47
+2132,533,Cab,QuickRide1,401.72
+2133,534,Bus,CityLink9,229.12
+2134,534,Train,RailConnect4,397.15
+2135,534,Flight,SkyJet Airways0,107.92
+2136,534,Cab,QuickRide11,239.19
+2137,535,Bus,CityLink3,109.35
+2138,535,Train,RailConnect1,366.70
+2139,535,Flight,SkyJet Airways1,217.37
+2140,535,Cab,QuickRide0,442.63
+2141,536,Bus,CityLink4,414.88
+2142,536,Train,RailConnect0,276.17
+2143,536,Flight,SkyJet Airways2,236.63
+2144,536,Cab,QuickRide6,219.73
+2145,537,Bus,CityLink9,414.23
+2146,537,Train,RailConnect1,343.49
+2147,537,Flight,SkyJet Airways3,461.36
+2148,537,Cab,QuickRide2,498.05
+2149,538,Bus,CityLink8,323.42
+2150,538,Train,RailConnect0,489.74
+2151,538,Flight,SkyJet Airways0,499.02
+2152,538,Cab,QuickRide11,128.83
+2153,539,Bus,CityLink0,258.89
+2154,539,Train,RailConnect4,495.27
+2155,539,Flight,SkyJet Airways0,273.24
+2156,539,Cab,QuickRide17,437.34
+2157,540,Bus,CityLink5,416.40
+2158,540,Train,RailConnect4,399.26
+2159,540,Flight,SkyJet Airways4,114.27
+2160,540,Cab,QuickRide0,188.56
+2161,541,Bus,CityLink5,239.18
+2162,541,Train,RailConnect2,211.12
+2163,541,Flight,SkyJet Airways3,135.90
+2164,541,Cab,QuickRide17,116.40
+2165,542,Bus,CityLink7,304.77
+2166,542,Train,RailConnect0,227.87
+2167,542,Flight,SkyJet Airways3,246.53
+2168,542,Cab,QuickRide17,134.00
+2169,543,Bus,CityLink9,350.74
+2170,543,Train,RailConnect2,141.49
+2171,543,Flight,SkyJet Airways0,140.30
+2172,543,Cab,QuickRide7,472.61
+2173,544,Bus,CityLink5,225.34
+2174,544,Train,RailConnect3,166.73
+2175,544,Flight,SkyJet Airways3,100.23
+2176,544,Cab,QuickRide6,430.26
+2177,545,Bus,CityLink6,286.41
+2178,545,Train,RailConnect4,402.55
+2179,545,Flight,SkyJet Airways1,151.93
+2180,545,Cab,QuickRide17,135.90
+2181,546,Bus,CityLink1,154.18
+2182,546,Train,RailConnect0,346.16
+2183,546,Flight,SkyJet Airways2,270.19
+2184,546,Cab,QuickRide2,341.18
+2185,547,Bus,CityLink2,487.09
+2186,547,Train,RailConnect1,443.95
+2187,547,Flight,SkyJet Airways0,429.81
+2188,547,Cab,QuickRide14,271.38
+2189,548,Bus,CityLink3,293.89
+2190,548,Train,RailConnect0,294.69
+2191,548,Flight,SkyJet Airways3,458.39
+2192,548,Cab,QuickRide19,475.12
+2193,549,Bus,CityLink4,455.29
+2194,549,Train,RailConnect1,316.11
+2195,549,Flight,SkyJet Airways4,409.41
+2196,549,Cab,QuickRide18,101.63
+2197,550,Bus,CityLink1,499.31
+2198,550,Train,RailConnect3,473.50
+2199,550,Flight,SkyJet Airways0,107.98
+2200,550,Cab,QuickRide7,244.14
+2201,551,Bus,CityLink7,411.66
+2202,551,Train,RailConnect0,277.28
+2203,551,Flight,SkyJet Airways3,243.48
+2204,551,Cab,QuickRide7,133.05
+2205,552,Bus,CityLink3,388.38
+2206,552,Train,RailConnect2,135.71
+2207,552,Flight,SkyJet Airways0,144.20
+2208,552,Cab,QuickRide7,236.42
+2209,553,Bus,CityLink1,182.72
+2210,553,Train,RailConnect2,324.71
+2211,553,Flight,SkyJet Airways3,413.65
+2212,553,Cab,QuickRide2,373.81
+2213,554,Bus,CityLink8,486.44
+2214,554,Train,RailConnect2,346.54
+2215,554,Flight,SkyJet Airways4,266.84
+2216,554,Cab,QuickRide8,377.13
+2217,555,Bus,CityLink1,393.11
+2218,555,Train,RailConnect2,478.54
+2219,555,Flight,SkyJet Airways1,303.87
+2220,555,Cab,QuickRide9,466.74
+2221,556,Bus,CityLink7,463.96
+2222,556,Train,RailConnect2,187.65
+2223,556,Flight,SkyJet Airways1,184.51
+2224,556,Cab,QuickRide17,331.74
+2225,557,Bus,CityLink8,267.52
+2226,557,Train,RailConnect2,483.54
+2227,557,Flight,SkyJet Airways2,213.35
+2228,557,Cab,QuickRide0,209.60
+2229,558,Bus,CityLink8,293.01
+2230,558,Train,RailConnect3,103.01
+2231,558,Flight,SkyJet Airways4,437.68
+2232,558,Cab,QuickRide16,245.12
+2233,559,Bus,CityLink3,195.86
+2234,559,Train,RailConnect3,249.76
+2235,559,Flight,SkyJet Airways1,143.17
+2236,559,Cab,QuickRide7,339.42
+2237,560,Bus,CityLink2,303.07
+2238,560,Train,RailConnect1,448.00
+2239,560,Flight,SkyJet Airways0,331.04
+2240,560,Cab,QuickRide5,331.89

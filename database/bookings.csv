@@ -1,0 +1,2 @@
+booking_id,user_id,hotel_id,transport_id,booking_date,total_cost
+4,1,7712,5,2025-10-24,500.59
